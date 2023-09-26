@@ -617,10 +617,10 @@ Frog tworzy wodospad, z którego Crono spada na przeciwnika.
 ## Technika Podwójna
 #  Crono + Robo
 - Rakieta
-Crono .
+Crono jumps on Robo's shoulders and they spin, shooting a beam at the enemy.
 - Super uderzenie
-Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
+Crono gives lightning power to Robo, who spins and shoots a high voltage beam at all enemies.
 - Maks. Cyklon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzI2NDE2MywxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMjU1NzAxMzAwLDE5ODMwNTY5MzJdfQ==
 -->
