@@ -803,13 +803,17 @@ Każdy członek musi mieć wymagane MP, aby używać Technik podwójnych i potr�
 
 `Strona 52`
 # Wiejskie Lokacje
-Each village has two very important places you should visit - the Inn and the Market
-## Inns
-Go to the Inn in each village. Even if you don't need rest, there will be people to talk to and items to find. Of course, if you sleep at the Inn, your HP and MP will be completly refilled.
-## Markets
-Here is where you purchase Items like weapons, armor, tonic and other things you will need on your journey.
-To see whether you made a good or bad purchase, look at the color of your attack numbers. Blue numbers mean you have added to your abilities; white numbers show you 
+
+Każda wioska ma dwa bardzo ważne miejsca, które powinieneś odwiedzić - karczmę i rynek.
+## Karczmy
+Udaj się do karczmy w każdej wiosce. Nawet jeśli nie potrzebujesz odpoczynku, znajdziesz tam ludzi, z którymi możesz porozmawiać i przedmioty do znalezienia. Oczywiście, jeśli prześpisz się w karczmie, twoje PŻ i MP zostaną całkowicie uzupełnione.
+## Rynki
+Tutaj kupisz przedmioty, takie jak broń, zbroja, tonik i inne rzeczy, których będziesz potrzebować podczas podróży.
+Aby sprawdzić, czy dokonałeś dobrego lub złego zakupu, spójrz na kolor swoich liczb ataku. Niebieskie cyfry oznaczają, że zwiększyłeś swoje umiejętności; białe cyfry oznaczają, że pozostałeś na tym samym poziomie; a szare cyfry oznaczają, że obniżyłeś swój poziom.
+
+`Strona 53`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzUyOTIwNCwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbLTc4NzQ1ODIyMSwtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
