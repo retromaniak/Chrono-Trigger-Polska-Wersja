@@ -612,15 +612,15 @@ Crono i Frog biegną w formacji X.
 - Wstrząs
 Frog dźga wroga, a Crono uderza w niego piorunem.
 - Struień Ostrzy
-Frog creates a waterfall and Crono drops from it onto an enemy.
+Frog tworzy wodospad, z którego Crono spada na przeciwnika.
 
 ## Technika Podwójna
 #  Crono + Robo
-- Wir Ognia
-Crono i Lucca obracają się i atakują grupę potworów ogniem.
-- Ognisty miecz 2
+- Rakieta
+Crono .
+- Super uderzenie
 Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
-- Ognisty miecz
+- Maks. Cyklon
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNzQyNjMsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTY0NzI2NDE2MywxOTgzMDU2OTMyXX0=
 -->
