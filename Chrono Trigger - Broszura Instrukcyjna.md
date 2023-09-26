@@ -817,19 +817,21 @@ Opisuje, co robi dany element.
 - Cennik produktów
 Jest to lista towarów na sprzedaż w wiosce i ich cena.
 - Pieniądze
-This is how much gold you are holding
+To jest ilość posiadanego złota
 - Siła
-This displats the items attack or defense power.
+Powoduje to przesunięcie mocy ataku lub obrony przedmiotu.
 - Lista Postaci
-This lists the characters in your party, and describes weapon and armor levels.
+Zawiera listę postaci w drużynie oraz opis poziomów broni i pancerza.
 [Grafika 1]
 [Grafika 2]
-When you buy items, the characters that can equip will jump up and down.
+Kiedy kupujesz przedmioty, postacie, które możesz wyposażyć, będą przeskakiwać w górę i w dół.
 - Posiadane/Wyposażone
-These show the quantity of items you have equipped and items you are carrying.
+Pokazują one ilość przedmiotów, które masz na wyposażeniu i przedmiotów, które nosisz.
 
 `Strona 54`
+# Metody podróży w czasie
+There are two type of time travel - Time Gates and the Time Machine. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzkxMTY2MSwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbLTg4OTY5NjM4NCwtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
