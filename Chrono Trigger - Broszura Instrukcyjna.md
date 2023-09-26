@@ -840,8 +840,12 @@ Aby otworzyć wskaźnik czasu, naciśnij Y, gdy jesteś w Wehikule czasu.
 
 `Strona 55`
 # Koniec Czasu
-This world exists beyond the realm of time. It is the 
+This world exists beyond the realm of time. It is the most important place in this game. You must figure out why it exists and how to use it.
+## Bramy Czasu
+Each era is connected to this world by a
+## Stary Mężczyzna
+## Spekkio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE0Nzg5MjQsLTIwODI4MjQwMzcsLT
-E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTI0NjU0ODA5OCwtMjA4MjgyNDAzNywtMT
+c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
