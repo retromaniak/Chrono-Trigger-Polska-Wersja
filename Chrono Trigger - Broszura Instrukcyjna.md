@@ -770,23 +770,26 @@ Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pob
 ## Technika Potrójna
 #  Crono + Lucca + Ayla
 
-### Cios ostateczny
-Ayla wykonuje na przeciwniku spiralne kopnięcie z użyciem mocy błyskawic i magii wody.
+### Maszynowy kop
+Ayla 
 
 ## Technika Potrójna
 #  Crono + Frog + Robo
 
-### Delta Sztormu
+### Potrójny nalot
 Magia błyskawic, ognia i wody łączą się, tworząc kolejny trójkąt energii zadający maksymalne obrażenia wszystkim wrogom.
 
 ## Technika Potrójna
 #  Crono + Frog + Ayla
 
-### Strefa Ognia
+### Atak 3D
 Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pobliskich wrogów.
+
+`Strona 51`
+
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTYwMjYyMywtMTc3MzI5OTE0LDE5OD
+eyJoaXN0b3J5IjpbLTcwNDcwMDM0OCwtMTc3MzI5OTE0LDE5OD
 MwNTY5MzJdfQ==
 -->
