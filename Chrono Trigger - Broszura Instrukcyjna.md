@@ -758,18 +758,35 @@ Ayla wykonuje na przeciwniku spiralne kopnięcie z użyciem mocy błyskawic i ma
 #  Crono + Lucca + Frog
 
 ### Delta Sztormu
-Lightning, Fire, and Water Magic combine, creating another triangle of energy delivering maximum damage to all enemies.
+Magia błyskawic, ognia i wody łączą się, tworząc kolejny trójkąt energii zadający maksymalne obrażenia wszystkim wrogom.
 
 ## Technika Potrójna
 #  Crono + Lucca + Robo
 
 ### Strefa Ognia
-Crono lights on fire. Robo grabs him and spins him, and Crono slashes at all nearby enemies.
+Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pobliskich wrogów.
 
 `Strona 50`
+## Technika Potrójna
+#  Crono + Lucca + Ayla
+
+### Cios ostateczny
+Ayla wykonuje na przeciwniku spiralne kopnięcie z użyciem mocy błyskawic i magii wody.
+
+## Technika Potrójna
+#  Crono + Frog + Robo
+
+### Delta Sztormu
+Magia błyskawic, ognia i wody łączą się, tworząc kolejny trójkąt energii zadający maksymalne obrażenia wszystkim wrogom.
+
+## Technika Potrójna
+#  Crono + Frog + Ayla
+
+### Strefa Ognia
+Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pobliskich wrogów.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMzEwODY2LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbLTg0OTYwMjYyMywtMTc3MzI5OTE0LDE5OD
+MwNTY5MzJdfQ==
 -->
