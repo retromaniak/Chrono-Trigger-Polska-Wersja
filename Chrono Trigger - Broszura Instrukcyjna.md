@@ -646,15 +646,15 @@ Silniejsza wersja Antypodu, działa na grupę potworów.
 ## Technika Podwójna
 #  Marle + Frog
 - Lodowa woda
-Marle and Frog's Water MAgic combine 
+Marle and Frog's Water MAgic combine into an ice shower that affects all enemies.
 - Podwójne uzdrowienie
-Ayla rzuca Crono, a ten tnie wroga.
+Marle and Frog recover party's HP.
 - Lodowiec
-Z pomocą Magii Grzmotu Crona, Ayla gryzie wroga.
+They shower huge icicles on the enemies.
 
 ## Technika Podwójna
 #  Marle + Robo
-- Antypod
+- Promień aury
 Magia wody Marle i magia ognia Lucca łączą się, tworząc śmiercionośne pole energetyczne.
 - Antypod 3
 Jest to najsilniejsza wersja Antypodu; działa na wszystkich wrogów.
@@ -663,5 +663,5 @@ Silniejsza wersja Antypodu, działa na grupę potworów.
 
 `Strona 44`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTg2NjUxMiwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTIxMTAxMjk3OCwxOTgzMDU2OTMyXX0=
 -->
