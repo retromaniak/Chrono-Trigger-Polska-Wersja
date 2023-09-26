@@ -771,25 +771,25 @@ Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pob
 #  Crono + Lucca + Ayla
 
 ### Maszynowy kop
-Ayla 
+Ayla gives an enemy a spiral kick with Lightning and Fire Magic.
 
 ## Technika Potrójna
 #  Crono + Frog + Robo
 
 ### Potrójny nalot
-Magia błyskawic, ognia i wody łączą się, tworząc kolejny trójkąt energii zadający maksymalne obrażenia wszystkim wrogom.
+Crono, Frog, and Robo attack an enemy simultaneously.
 
 ## Technika Potrójna
 #  Crono + Frog + Ayla
 
 ### Atak 3D
-Crono staje w płomieniach. Robo chwyta go i obraca, a Crono tnie wszystkich pobliskich wrogów.
+Ayla joins Crono and Frog's X-Strike attack, and they deliver .
 
 `Strona 51`
 
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDcwMDM0OCwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNzQ3NjAyMDAsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
