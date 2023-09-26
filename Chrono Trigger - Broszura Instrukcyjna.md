@@ -819,10 +819,14 @@ This is a list of the wares for sale in a village, and what they will cost.
 - Pieniądze
 This is how much gold you are holding
 - Siła
-This displats the items attack or 
+This displats the items attack or defense power.
 - Lista Postaci
+This lists the characters in your party, and describes weapon and armor levels.
+[Grafika 1]
+[Grafika 2]
+When you buy items, the characters that can equip will jump 
 - Posiadane/Wyposażone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ1NTAwODUsLTIwODI4MjQwMzcsLT
-E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTcxMTA5ODgwMiwtMjA4MjgyNDAzNywtMT
+c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
