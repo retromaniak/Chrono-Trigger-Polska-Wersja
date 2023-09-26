@@ -726,10 +726,11 @@ Ayla i Robo rzucają zaklęcie Stop, okrążając wroga.
 - Rzut bestią
 Robo i Ayla rzucają wrogiem, powodując poważne obrażenia.
 - Wirujące uderzenie
-Robo throws Ayla, and she spins and kicks an enemy.
+Robo rzuca Aylą, a ona obraca się i kopie przeciwnika.
 
 `Strona 48`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODY0MTg3OSwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbNDkzMDcyOTY4LC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
