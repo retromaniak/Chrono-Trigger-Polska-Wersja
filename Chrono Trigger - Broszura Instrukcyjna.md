@@ -703,9 +703,9 @@ Lucca i Ayla atakują wrogów tornadem płomieni.
 ## Technika Podwójna
 #  Frog + Robo
 - Rzut Ostrza
-Frog skacze i tnie wrogów ognistym mieczem.
+Robo throws Frog, and he attacks an enemy with his sword.
 - Uzdrawiająca fala
-Przywołują ogromną żabę, która atakuje magią ognia. 
+Frog and Robo's combined power recovers all of the .
 - Bańka pułapka
 Lucca rzuca bomby, podczas gdy Frog leci na linię wrogów i tnie ich.
 
@@ -715,11 +715,11 @@ Lucca rzuca bomby, podczas gdy Frog leci na linię wrogów i tnie ich.
 Stopy Ayli stają w płomieniach, a ona kopie przeciwnika.
 - Zrzut z kopniakiem
 Ayla skacze, używając Magii Ognia i kopie przeciwnika.
-- Bąbelkowe
+- Bąbelkowe uderzenie
 Lucca i Ayla atakują wrogów tornadem płomieni.
 
-`Strona 46`
+`Strona 47`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjMwNjE1MiwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbOTI2MDU2Mjg5LC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
