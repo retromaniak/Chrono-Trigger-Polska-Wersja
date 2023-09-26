@@ -643,7 +643,25 @@ Jest to najsilniejsza wersja Antypodu; działa na wszystkich wrogów.
 Silniejsza wersja Antypodu, działa na grupę potworów.
 
 `Strona 43`
+## Technika Podwójna
+#  Marle + Frog
+- Lodowa woda
+Marle and Frog's Water MAgic combine 
+- Podwójne uzdrowienie
+Ayla rzuca Crono, a ten tnie wroga.
+- Lodowiec
+Z pomocą Magii Grzmotu Crona, Ayla gryzie wroga.
 
+## Technika Podwójna
+#  Marle + Robo
+- Antypod
+Magia wody Marle i magia ognia Lucca łączą się, tworząc śmiercionośne pole energetyczne.
+- Antypod 3
+Jest to najsilniejsza wersja Antypodu; działa na wszystkich wrogów.
+- Antypod 2
+Silniejsza wersja Antypodu, działa na grupę potworów.
+
+`Strona 44`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mzk0NzY2MiwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTY4OTg2NjUxMiwxOTgzMDU2OTMyXX0=
 -->
