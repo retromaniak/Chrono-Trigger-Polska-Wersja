@@ -840,14 +840,16 @@ Aby otworzyć wskaźnik czasu, naciśnij Y, gdy jesteś w Wehikule czasu.
 
 `Strona 55`
 # Koniec Czasu
-This world exists beyond the realm of time. It is the most important place in this game. You must figure out why it exists and how to use it.
+Ten świat istnieje poza czasem. Jest to najważniejsze miejsce w tej grze. Musisz dowiedzieć się, dlaczego istnieje i jak z niego korzystać.
 ## Bramy Czasu
-Each era is connected to this world by a Time Gate. In order to get to the Time Machine, you will need to use this gates.
+Każda epoka jest połączona z tym światem za pomocą Bram Czasu. Aby dostać się do Wehikułu Czasu, będziesz musiał skorzystać z tych bram.
 ## Stary Mężczyzna
 An old man lives in this place. You do not know who he is, but he will give you useful knowledge if you ask.
 ## Spekkio
+Spekkio can teach you magic. If you decide to fight him and win, he wll reward you with useful items.
 
+`Strona 56`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjA3OTA1MCwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbMjEyOTM5Mjk3NywtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
