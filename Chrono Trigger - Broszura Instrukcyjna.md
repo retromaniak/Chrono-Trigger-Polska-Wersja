@@ -752,13 +752,13 @@ Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obra�
 #  Crono + Marle + Ayla
 
 ### Cios ostateczny
-Ayla gives an enemy a spiral kick with Lightning and Water Magic .
+Ayla gives an enemy a spiral kick with Lightning and Water Magic power.
 
 ## Technika Potrójna
 #  Crono + Lucca + Frog
 
-### Impuls Łukowy
-Marle używa magii lodu, podczas gdy Crono i Frog skaczą i tną wrogów.
+### Delta Sztormu
+Lightning, Fire, and Water Magic combine, creating another triangle of energy delivering maximum damage to all enemies.
 
 ## Technika Potrójna
 #  Crono + Lucca + Robo
@@ -770,6 +770,6 @@ Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obra�
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjg4NDcyMywtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjcxNTg1ODUsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
