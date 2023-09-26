@@ -697,10 +697,29 @@ Stopy Ayli stają w płomieniach, a ona kopie przeciwnika.
 - Oślepiające uderzenie
 Ayla skacze, używając Magii Ognia i kopie przeciwnika.
 - Płomienny wir
-A tornado of flames from Lucca and Ayla attacks the enemies.
+Lucca i Ayla atakują wrogów tornadem płomieni.
+
+`Strona 46`
+## Technika Podwójna
+#  Frog + Robo
+- Rzut Ostrza
+Frog skacze i tnie wrogów ognistym mieczem.
+- Uzdrawiająca fala
+Przywołują ogromną żabę, która atakuje magią ognia. 
+- Liniowa bomba
+Lucca rzuca bomby, podczas gdy Frog leci na linię wrogów i tnie ich.
+
+## Technika Podwójna
+#  Frog + Ayla
+- Płomienne uderzenie
+Stopy Ayli stają w płomieniach, a ona kopie przeciwnika.
+- Oślepiające uderzenie
+Ayla skacze, używając Magii Ognia i kopie przeciwnika.
+- Płomienny wir
+Lucca i Ayla atakują wrogów tornadem płomieni.
 
 `Strona 46`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjY0MTE2NjksLTE3NzMyOTkxNCwxOT
-gzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTY1NDY0MTgzLC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
