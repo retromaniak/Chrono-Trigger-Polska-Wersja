@@ -842,10 +842,12 @@ Aby otworzyć wskaźnik czasu, naciśnij Y, gdy jesteś w Wehikule czasu.
 # Koniec Czasu
 This world exists beyond the realm of time. It is the most important place in this game. You must figure out why it exists and how to use it.
 ## Bramy Czasu
-Each era is connected to this world by a
+Each era is connected to this world by a Time Gate. In order to get to the Time Machine, you will need to use this gates.
 ## Stary Mężczyzna
+An old man lives in this place. You do not know who he is, but he will give you useful knowledge if you ask.
 ## Spekkio
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NjU0ODA5OCwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbMTkwMjA3OTA1MCwtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
