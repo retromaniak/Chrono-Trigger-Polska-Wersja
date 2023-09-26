@@ -655,13 +655,13 @@ They shower huge icicles on the enemies.
 ## Technika Podwójna
 #  Marle + Robo
 - Promień aury
-Magia wody Marle i magia ognia Lucca łączą się, tworząc śmiercionośne pole energetyczne.
-- Antypod 3
-Jest to najsilniejsza wersja Antypodu; działa na wszystkich wrogów.
-- Antypod 2
+Marle and Robo emit an aura that recovers som of the party's HP.
+- Uzdrawiający dotyk
+They release.
+- Atak lodowy
 Silniejsza wersja Antypodu, działa na grupę potworów.
 
 `Strona 44`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAxMjk3OCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE5MzEwNTM2NjcsMTk4MzA1NjkzMl19
 -->
