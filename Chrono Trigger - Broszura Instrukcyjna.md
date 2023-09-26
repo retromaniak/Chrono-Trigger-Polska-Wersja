@@ -802,8 +802,11 @@ Walcząc z potworami, zdobywasz punkty technologii. Twoje poziomy technologiczne
 Każdy członek musi mieć wymagane MP, aby używać Technik podwójnych i potrójnych.
 
 `Strona 52`
-# Wiejskie 
+# Wiejskie Lokacje
+Each village has two very important places you should visit - the Inn and the Market
+## Inns
+Go to the Inn in each village. Even if you don't need rest, there will be people to talk to and items to
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5ODYwMjExLC0yMDgyODI0MDM3LC0xNz
-czMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE2MjQ1NTU1MTYsLTIwODI4MjQwMzcsLT
+E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
