@@ -683,24 +683,24 @@ Robo staje w płomieniach i atakuje wroga.
 `Strona 45`
 ## Technika Podwójna
 #  Lucca + Frog
-- Cz
+- Czerwony punkt
 Marle i Ayla spłoszyły wroga i odzyskały przedmiot.
-- Rzut blokiem
+- Żabia Flara
 Ayla rzuca ogromnym soplem w grupę wrogów.
-- Lodowy rzut
+- Liniowa bomba
 Ayla rzuca lodowymi skałami stworzonymi przez Marle w grupę wrogów.
 
 ## Technika Podwójna
 #  Lucca + Ayla
-- Ognista pięść
+- Płomienne uderzenie
 Robo uderza grupę wrogów magią ognia.
-- Podwójna bomba
+- Oślepiające uderzenie
 Robo łapie megatonową bombę rzuconą przez Luccę, a jej zwiększona siła wybuchu wpływa na wrogów w pobliżu Robo.
 - Ognisty atak
 Robo staje w płomieniach i atakuje wroga.
 
 `Strona 46`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNTQ1NDQ5LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbLTIwNzg4OTYwMTksLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
