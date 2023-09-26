@@ -812,8 +812,13 @@ Tutaj kupisz przedmioty, takie jak broń, zbroja, tonik i inne rzeczy, których 
 Aby sprawdzić, czy dokonałeś dobrego lub złego zakupu, spójrz na kolor swoich liczb ataku. Niebieskie cyfry oznaczają, że zwiększyłeś swoje umiejętności; białe cyfry oznaczają, że pozostałeś na tym samym poziomie; a szare cyfry oznaczają, że obniżyłeś swój poziom.
 
 `Strona 53`
-
+- Opis przedmiotu
+- Cennik produktów
+- Pieniądze
+- Siła
+- Lista Postaci
+- Posiadane/Wyposażone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzQ1ODIyMSwtMjA4MjgyNDAzNywtMT
-c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDMxMjY4NDYsLTIwODI4MjQwMzcsLT
+E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
