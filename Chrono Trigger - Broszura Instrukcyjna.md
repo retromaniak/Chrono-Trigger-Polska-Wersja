@@ -669,18 +669,18 @@ Marle i Ayla spłoszyły wroga i odzyskały przedmiot.
 - Rzut blokiem
 Ayla rzuca ogromnym soplem w grupę wrogów.
 - Lodowy rzut
-Ayla throws ice rocks made by Marle at a group of enemies.
+Ayla rzuca lodowymi skałami stworzonymi przez Marle w grupę wrogów.
 
 ## Technika Podwójna
 #  Lucca + Robo
 - Ognista pięść
-Robo punches a group of enemies with Fire Magic power.
+Robo uderza grupę wrogów magią ognia.
 - Podwójna bomba
-Robo catches a megaton bomb thrown by Lucca, and its aplified explosive power affects the enemies near Robo.
-- Ognisty bój
-Robo becomes engulfed in flames and tackles an enemy.
+Robo łapie megatonową bombę rzuconą przez Luccę, a jej zwiększona siła wybuchu wpływa na wrogów w pobliżu Robo.
+- Ognisty atak
+Robo staje w płomieniach i atakuje wroga.
 
 `Strona 45`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxOTM1NDA2LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
