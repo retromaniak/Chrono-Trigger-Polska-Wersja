@@ -703,23 +703,23 @@ Lucca i Ayla atakują wrogów tornadem płomieni.
 ## Technika Podwójna
 #  Frog + Robo
 - Rzut Ostrza
-Robo throws Frog, and he attacks an enemy with his sword.
+Robo rzuca Frogiem, a ten atakuje przeciwnika mieczem.
 - Uzdrawiająca fala
-Frog and Robo's combined power recovers all of the party's HP.
+Połączona moc Froga i Robo odzyskuje wszystkie PŻ drużyny.
 - Bańka pułapka
-Inside a big bubble, Robo is lifted and then dropped on an enemy.
+Wewnątrz wielkiej bańki Robo zostaje uniesiony, a następnie zrzucony na wroga.
 
 ## Technika Podwójna
 #  Frog + Ayla
 - Całus z języczkiem
-This kiss cures all of the party's ailments.
+Pocałunek ten leczy wszystkie dolegliwości drużyny.
 - Zrzut z kopniakiem
-Frog and Ayla jump.
+Frog and Ayla jump together and stab an enemy.
 - Bąbelkowe uderzenie
-Lucca i Ayla atakują wrogów tornadem płomieni.
+Ayla, inside a bubble, is dropped on an enemy.
 
 `Strona 47`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDEwNjk0MSwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTIzNjQ2NTUsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
