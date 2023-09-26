@@ -752,7 +752,7 @@ Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obra�
 #  Crono + Marle + Ayla
 
 ### Cios ostateczny
-Ayla gives an enemy a spiral kick with Lightning and Water Magic power.
+Ayla wykonuje na przeciwniku spiralne kopnięcie z użyciem mocy błyskawic i magii wody.
 
 ## Technika Potrójna
 #  Crono + Lucca + Frog
@@ -763,13 +763,13 @@ Lightning, Fire, and Water Magic combine, creating another triangle of energy de
 ## Technika Potrójna
 #  Crono + Lucca + Robo
 
-### Linia życia
-Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obrażeń.
+### Strefa Ognia
+Crono lights on fire. Robo grabs him and spins him, and Crono slashes at all nearby enemies.
 
 `Strona 50`
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjcxNTg1ODUsLTE3NzMyOTkxNCwxOT
-gzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbNjUxMzEwODY2LC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
