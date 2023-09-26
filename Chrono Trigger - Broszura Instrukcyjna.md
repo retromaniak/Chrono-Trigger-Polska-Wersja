@@ -627,23 +627,23 @@ Robo trzyma Crono i obraca się, tnąc wroga.
 ## Technika Podwójna
 #  Crono + Ayla
 - Rolo strzał
-Crono throws Ayla, and she drops onto an enemy and kicks it in the head.
+Crono rzuca Aylą, a ta spada na przeciwnika i kopie go w głowę.
 - Sokoli strzał
-Ayla throws Crono and he slashes the enemy.
+Ayla rzuca Crono, a ten tnie wroga.
 - Voltowe ugryzienie
-With the help of Crono's Thunder Magic, Ayla bites an enemy.
+Z pomocą Magii Grzmotu Crona, Ayla gryzie wroga.
 
 ## Technika Podwójna
 #  Marle + Lucca
 - Antypod
-Marle's Water and Lucca's fire Magic combine to create a deadly energy field.
+Magia wody Marle i magia ognia Lucca łączą się, tworząc śmiercionośne pole energetyczne.
 - Antypod 3
-This is the strongest version of Antipode; it affects all enemies.
+Jest to najsilniejsza wersja Antypodu; działa na wszystkich wrogów.
 - Antypod 2
-A stronger version of Antipode, it affects a group of monsters.
+Silniejsza wersja Antypodu, działa na grupę potworów.
 
 `Strona 43`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk2OTEyMDIsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbMTc1Mzk0NzY2MiwxOTgzMDU2OTMyXX0=
 -->
