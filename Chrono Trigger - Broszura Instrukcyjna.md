@@ -688,19 +688,19 @@ Frog jumps and slashes an enemy with a fire sword.
 - Żabia Flara
 They summon a huge frog that attacks with Fire Magic power. 
 - Liniowa bomba
-Lucca throws bomb
+Lucca throws bombs while Frog flies into a line of enemies and slash them.
 
 ## Technika Podwójna
 #  Lucca + Ayla
 - Płomienne uderzenie
-Robo uderza grupę wrogów magią ognia.
+Ayla's feet chatch on fire and she kicks an enemy.
 - Oślepiające uderzenie
-Robo łapie megatonową bombę rzuconą przez Luccę, a jej zwiększona siła wybuchu wpływa na wrogów w pobliżu Robo.
+Ayla jumps using Fire Magic power and kicks an enemy.
 - Płomienny wir
 Robo staje w płomieniach i atakuje wroga.
 
 `Strona 46`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTYyNzgzNCwtMTc3MzI5OTE0LDE5OD
+eyJoaXN0b3J5IjpbLTQ3OTMzNjA4MCwtMTc3MzI5OTE0LDE5OD
 MwNTY5MzJdfQ==
 -->
