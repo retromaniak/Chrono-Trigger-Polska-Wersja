@@ -722,14 +722,14 @@ Ayla, wewnątrz bańki, zostaje zrzucona na wroga.
 ## Technika Podwójna
 #  Robo + Ayla
 - Boogie
-Ayla and Robo cast Stop 
+Ayla i Robo rzucają zaklęcie Stop, okrążając wroga.
 - Rzut bestią
-Frog i Ayla skaczą razem i dźgają wroga.
+Robo i Ayla rzucają wrogiem, powodując poważne obrażenia.
 - Wirujące uderzenie
-Ayla, wewnątrz bańki, zostaje zrzucona na wroga.
+Robo throws Ayla, and she spins and kicks an enemy.
 
 `Strona 48`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTE3NDczNywtMTc3MzI5OTE0LDE5OD
+eyJoaXN0b3J5IjpbMTU4ODY0MTg3OSwtMTc3MzI5OTE0LDE5OD
 MwNTY5MzJdfQ==
 -->
