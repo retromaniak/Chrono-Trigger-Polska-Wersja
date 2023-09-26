@@ -607,11 +607,11 @@ Atakują tylko jednego przeciwnika swoim ognistym mieczem.
 `Strona 41`
 ## Technika Podwójna
 #  Crono + Frog
-- Ci
-Crono i Marle obracają się i odzyskują część PŻ drużyny.
-- Lodowy miecz 2
-Crono i Marle mogą zadawać wrogom jeszcze większe obrażenia.
-- Lodowy miecz
+- Cięcie X
+Crono and Frog dash in an X formation.
+- Spire
+Fr.
+- Struień Ostrzy
 Atakują wroga magicznym lodowym mieczem.
 
 ## Technika Podwójna
@@ -622,5 +622,5 @@ Crono i Lucca obracają się i atakują grupę potworów ogniem.
 Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
 - Ognisty miecz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMTk5MzU0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTUzNjQxMDIwMywxOTgzMDU2OTMyXX0=
 -->
