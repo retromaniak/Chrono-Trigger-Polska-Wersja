@@ -807,8 +807,9 @@ Each village has two very important places you should visit - the Inn and the Ma
 ## Inns
 Go to the Inn in each village. Even if you don't need rest, there will be people to talk to and items to find. Of course, if you sleep at the Inn, your HP and MP will be completly refilled.
 ## Markets
-Here is where you purchase Items like weapons, armor, tonic and other 
+Here is where you purchase Items like weapons, armor, tonic and other things you will need on your journey.
+To see whether you made a good or bad purchase, look at the color of your attack numbers. Blue numbers mean you have added to your abilities; white numbers show you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0Mjg5NjYwLC0yMDgyODI0MDM3LC0xNz
-czMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTc3MzUyOTIwNCwtMjA4MjgyNDAzNywtMT
+c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
