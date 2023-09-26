@@ -636,12 +636,14 @@ With the help of Crono's Thunder Magic, Ayla bites an enemy.
 ## Technika Podwójna
 #  Marle + Lucca
 - Antypod
-Marle's Water and Lucca's fire Magic combine to crea
+Marle's Water and Lucca's fire Magic combine to create a deadly energy field.
 - Antypod 3
-Crono daje moc błyskawicy Robo, który obraca się i strzela wiązką wysokiego napięcia we wszystkich wrogów.
+This is the strongest version of Antipode; it affects all enemies.
 - Antypod 2
-Robo trzyma Crono i obraca się, tnąc wroga.
+A stronger version of Antipode, it affects a group of monsters.
+
+`Strona 43`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODgyMzE4NiwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE5Mzk2OTEyMDIsMTk4MzA1NjkzMl19
 -->
