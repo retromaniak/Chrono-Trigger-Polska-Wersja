@@ -669,18 +669,18 @@ MArle and Ayla fluster the enemy and recover an item.
 - Rzut blokiem
 Ayla throws a huge icicle at a group of enemies.
 - Lodowy rzut
-Zrzucają na wrogów ogromne sople lodu.
+Ayla throws ice rocks made by Marle at a group of enemies.
 
 ## Technika Podwójna
 #  Lucca + Robo
 - Ognista pięść
-Marle i Robo emitują aurę, która odzyskuje część PŻ drużyny.
+Robo punches a group of enemies with Fire Magic power.
 - Podwójna bomba
-Uwalniają Magię Uzdrawiającą, która odzyskuje większość PŻ drużyny.
+Robo catches a megaton bomb thrown by Lucca, and its aplified ex.
 - Ognisty bój
 Magia sopli Robo pomaga mu uporać się z wrogiem.
 
 `Strona 45`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njk2OTAyNjMsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE3ODk5Mjc4NjUsMTk4MzA1NjkzMl19
 -->
