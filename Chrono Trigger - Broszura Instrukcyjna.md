@@ -790,10 +790,14 @@ Ayla dołącza do ataku X-Strike Crono i Froga i zadaje wrogowi duże obrażenia
 #  Crono + Robo + Ayla
 
 ### Twister
-Ayla dołącza do ataku X-Strike Crono i Froga i zadaje wrogowi duże obrażenia.
+Crono, Robo & Ayla spin to create a giant tornado, damaging all enemies in sight.
 
 ---
+
+## How to raise tech levels
+As you battle monsters, you gain Te
+## MP and double triple tech
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjA1NjY1LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbLTU3OTU0NDU1OSwtMTc3MzI5OTE0LDE5OD
+MwNTY5MzJdfQ==
 -->
