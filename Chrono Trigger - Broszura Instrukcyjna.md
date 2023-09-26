@@ -790,16 +790,17 @@ Ayla dołącza do ataku X-Strike Crono i Froga i zadaje wrogowi duże obrażenia
 #  Crono + Robo + Ayla
 
 ### Twister
-Crono, Robo & Ayla spin to create a giant tornado, damaging all enemies in sight.
+Crono, Robo i Ayla obracają się, tworząc gigantyczne tornado, które niszczy wszystkich wrogów w zasięgu wzroku.
 
 ---
 
-## How to raise tech levels
-As you battle monsters, you gain Tech points. Your Tech Levels raise as you collect more points. Switch characters frequently so each one achives high Tech levels.
+## Jak podnieść poziom Techniki
+Walcząc z potworami, zdobywasz punkty technologii. Twoje poziomy technologiczne rosną w miarę zbierania kolejnych punktów. Często zmieniaj postacie, aby każda z nich osiągnęła wysoki poziom techniczny.
 
-## MP and double triple tech
-Each member needs to have the
+
+## MP i podwójna potrójna technika
+Każdy członek musi mieć wymagane MP, aby używać Techni.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxOTAyMjE4LC0xNzczMjk5MTQsMTk4Mz
+eyJoaXN0b3J5IjpbMjU4OTM0MzY0LC0xNzczMjk5MTQsMTk4Mz
 A1NjkzMl19
 -->
