@@ -646,7 +646,7 @@ Silniejsza wersja Antypodu, działa na grupę potworów.
 ## Technika Podwójna
 #  Marle + Frog
 - Lodowa woda
-Marle and Frog's Water MAgic combine into an ice shower that affects all enemies.
+Magia wody Marle i Froga łączy się w lodowy deszcz, który działa na wszystkich wrogów.
 - Podwójne uzdrowienie
 Marle and Frog recover party's HP.
 - Lodowiec
@@ -655,13 +655,13 @@ They shower huge icicles on the enemies.
 ## Technika Podwójna
 #  Marle + Robo
 - Promień aury
-Marle and Robo emit an aura that recovers som of the party's HP.
+Marle and Robo emit an aura that recovers some of the party's HP.
 - Uzdrawiający dotyk
-They release.
+They release Healing Magic that recovers most of the party's HP.
 - Atak lodowy
-Silniejsza wersja Antypodu, działa na grupę potworów.
+Robo's icicle Magic power helps him tackle an enemy.
 
 `Strona 44`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEwNTM2NjcsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTgwNzUyNzU3MSwxOTgzMDU2OTMyXX0=
 -->
