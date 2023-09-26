@@ -665,9 +665,9 @@ Magia sopli Robo pomaga mu uporać się z wrogiem.
 ## Technika Podwójna
 #  Marle + Ayla
 - Podwójny urok
-MArle and Ayla fluster the enemy and recover an item.
+Marle i Ayla spłoszyły wroga i odzyskały przedmiot.
 - Rzut blokiem
-Ayla throws a huge icicle at a group of enemies.
+Ayla rzuca ogromnym soplem w grupę wrogów.
 - Lodowy rzut
 Ayla throws ice rocks made by Marle at a group of enemies.
 
@@ -676,11 +676,11 @@ Ayla throws ice rocks made by Marle at a group of enemies.
 - Ognista pięść
 Robo punches a group of enemies with Fire Magic power.
 - Podwójna bomba
-Robo catches a megaton bomb thrown by Lucca, and its aplified ex.
+Robo catches a megaton bomb thrown by Lucca, and its aplified explosive power affects the enemies near Robo.
 - Ognisty bój
-Magia sopli Robo pomaga mu uporać się z wrogiem.
+Robo becomes engulfed in flames and tackles an enemy.
 
 `Strona 45`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk5Mjc4NjUsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbNTQxOTM1NDA2LDE5ODMwNTY5MzJdfQ==
 -->
