@@ -799,8 +799,10 @@ Walcząc z potworami, zdobywasz punkty technologii. Twoje poziomy technologiczne
 
 
 ## MP i podwójna potrójna technika
-Każdy członek musi mieć wymagane MP, aby używać Techni.
+Każdy członek musi mieć wymagane MP, aby używać Technik podwójnych i potrójnych.
+
+`Strona 52`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4OTM0MzY0LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
