@@ -749,25 +749,27 @@ Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obra�
 
 `Strona 49`
 ## Technika Potrójna
-#  Crono + Marle + Ayl
+#  Crono + Marle + Ayla
 
-### Delta Force
-Magia światła, ognia i wody łączą się, tworząc trójkąt energii, który zadaje maksymalne obrażenia wszystkim wrogom.
+### Cios ostateczny
+Ayla gives an enemy a spiral kick with Lightning and Water Magic .
 
 ## Technika Potrójna
-#  Crono + Marle + Frog
+#  Crono + Lucca + Frog
 
 ### Impuls Łukowy
 Marle używa magii lodu, podczas gdy Crono i Frog skaczą i tną wrogów.
 
 ## Technika Potrójna
-#  Crono + Marle + Robo
+#  Crono + Lucca + Robo
 
 ### Linia życia
 Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obrażeń.
 
+`Strona 50`
+
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTg1MzQyOSwtMTc3MzI5OTE0LDE5OD
+eyJoaXN0b3J5IjpbLTMyNjg4NDcyMywtMTc3MzI5OTE0LDE5OD
 MwNTY5MzJdfQ==
 -->
