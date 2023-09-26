@@ -795,9 +795,11 @@ Crono, Robo & Ayla spin to create a giant tornado, damaging all enemies in sight
 ---
 
 ## How to raise tech levels
-As you battle monsters, you gain Te
+As you battle monsters, you gain Tech points. Your Tech Levels raise as you collect more points. Switch characters frequently so each one achives high Tech levels.
+
 ## MP and double triple tech
+Each member needs to have the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTU0NDU1OSwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMzcxOTAyMjE4LC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
