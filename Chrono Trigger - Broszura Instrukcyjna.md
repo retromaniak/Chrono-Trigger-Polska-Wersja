@@ -684,23 +684,23 @@ Robo staje w płomieniach i atakuje wroga.
 ## Technika Podwójna
 #  Lucca + Frog
 - Czerwony punkt
-Frog jumps and slashes an enemy with a fire sword.
+Frog skacze i tnie wrogów ognistym mieczem.
 - Żabia Flara
-They summon a huge frog that attacks with Fire Magic power. 
+Przywołują ogromną żabę, która atakuje magią ognia. 
 - Liniowa bomba
-Lucca throws bombs while Frog flies into a line of enemies and slash them.
+Lucca rzuca bomby, podczas gdy Frog leci na linię wrogów i tnie ich.
 
 ## Technika Podwójna
 #  Lucca + Ayla
 - Płomienne uderzenie
-Ayla's feet chatch on fire and she kicks an enemy.
+Stopy Ayli stają w płomieniach, a ona kopie przeciwnika.
 - Oślepiające uderzenie
-Ayla jumps using Fire Magic power and kicks an enemy.
+Ayla skacze, używając Magii Ognia i kopie przeciwnika.
 - Płomienny wir
-Robo staje w płomieniach i atakuje wroga.
+A tornado of flames from Lucca and Ayla attacks the enemies.
 
 `Strona 46`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTMzNjA4MCwtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjY0MTE2NjksLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
