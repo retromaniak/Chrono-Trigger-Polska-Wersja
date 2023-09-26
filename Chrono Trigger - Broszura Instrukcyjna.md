@@ -805,8 +805,10 @@ Każdy członek musi mieć wymagane MP, aby używać Technik podwójnych i potr�
 # Wiejskie Lokacje
 Each village has two very important places you should visit - the Inn and the Market
 ## Inns
-Go to the Inn in each village. Even if you don't need rest, there will be people to talk to and items to
+Go to the Inn in each village. Even if you don't need rest, there will be people to talk to and items to find. Of course, if you sleep at the Inn, your HP and MP will be completly refilled.
+## Markets
+Here is where you purchase Items like weapons, armor, tonic and other 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ1NTU1MTYsLTIwODI4MjQwMzcsLT
-E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMjU0Mjg5NjYwLC0yMDgyODI0MDM3LC0xNz
+czMjk5MTQsMTk4MzA1NjkzMl19
 -->
