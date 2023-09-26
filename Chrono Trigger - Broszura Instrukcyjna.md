@@ -813,12 +813,16 @@ Aby sprawdzić, czy dokonałeś dobrego lub złego zakupu, spójrz na kolor swoi
 
 `Strona 53`
 - Opis przedmiotu
+This describes what the item does.
 - Cennik produktów
+This is a list of the wares for sale in a village, and what they will cost.
 - Pieniądze
+This is how much gold you are holding
 - Siła
+This displats the items attack or 
 - Lista Postaci
 - Posiadane/Wyposażone
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMxMjY4NDYsLTIwODI4MjQwMzcsLT
+eyJoaXN0b3J5IjpbLTEwNjQ1NTAwODUsLTIwODI4MjQwMzcsLT
 E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
