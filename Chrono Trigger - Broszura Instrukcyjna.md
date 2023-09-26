@@ -830,8 +830,12 @@ Pokazują one ilość przedmiotów, które masz na wyposażeniu i przedmiotów, 
 
 `Strona 54`
 # Metody podróży w czasie
-There are two type of time travel - Time Gates and the Time Machine. 
+There are two type of time travel - Time Gates and the Time Machine. (Time travel is not always an option.)
+## Bramy Czasu
+To activate a Time Gate, simply go near it and push A. Only then will you know where it will take you.
+## Maszyna Czasu
+At so
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTY5NjM4NCwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbMTUwOTY1Mzc1MiwtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
