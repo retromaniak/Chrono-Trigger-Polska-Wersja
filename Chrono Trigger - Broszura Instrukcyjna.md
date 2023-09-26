@@ -813,9 +813,9 @@ Aby sprawdzić, czy dokonałeś dobrego lub złego zakupu, spójrz na kolor swoi
 
 `Strona 53`
 - Opis przedmiotu
-This describes what the item does.
+Opisuje, co robi dany element.
 - Cennik produktów
-This is a list of the wares for sale in a village, and what they will cost.
+Jest to lista towarów na sprzedaż w wiosce i ich cena.
 - Pieniądze
 This is how much gold you are holding
 - Siła
@@ -824,9 +824,12 @@ This displats the items attack or defense power.
 This lists the characters in your party, and describes weapon and armor levels.
 [Grafika 1]
 [Grafika 2]
-When you buy items, the characters that can equip will jump 
+When you buy items, the characters that can equip will jump up and down.
 - Posiadane/Wyposażone
+These show the quantity of items you have equipped and items you are carrying.
+
+`Strona 54`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTA5ODgwMiwtMjA4MjgyNDAzNywtMT
+eyJoaXN0b3J5IjpbMTAyMzkxMTY2MSwtMjA4MjgyNDAzNywtMT
 c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
