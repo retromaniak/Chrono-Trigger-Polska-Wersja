@@ -629,19 +629,19 @@ Robo trzyma Crono i obraca się, tnąc wroga.
 - Rolo strzał
 Crono throws Ayla, and she drops onto an enemy and kicks it in the head.
 - Sokoli strzał
-Ayla throws Crono and he slashes the enemy
+Ayla throws Crono and he slashes the enemy.
 - Voltowe ugryzienie
-Frog tworzy wodospad, z którego Crono spada na przeciwnika.
+With the help of Crono's Thunder Magic, Ayla bites an enemy.
 
 ## Technika Podwójna
 #  Marle + Lucca
-- Rakieta
-Crono wskakuje na ramiona Robo i obracają się, wystrzeliwując promień w kierunku wroga.
-- Super uderzenie
+- Antypod
+Marle's Water and Lucca's fire Magic combine to crea
+- Antypod 3
 Crono daje moc błyskawicy Robo, który obraca się i strzela wiązką wysokiego napięcia we wszystkich wrogów.
-- Maks. Cyklon
+- Antypod 2
 Robo trzyma Crono i obraca się, tnąc wroga.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzI3NDY0MDAsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbMTExODgyMzE4NiwxOTgzMDU2OTMyXX0=
 -->
