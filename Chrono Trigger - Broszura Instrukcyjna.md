@@ -589,23 +589,38 @@ Skacze i kopie przeciwnika trzy razy.
 ## Technika Podwójna
 #  Crono + Marle
 - Wir Aury
-Crono and Marle spin and recover some of the party's HP.
+Crono i Marle obracają się i odzyskują część PŻ drużyny.
 - Lodowy miecz 2
-Crono and Marle can do even more damage to enemies.
+Crono i Marle mogą zadawać wrogom jeszcze większe obrażenia.
 - Lodowy miecz
-They attack an enemy with a magical ice sword.
+Atakują wroga magicznym lodowym mieczem.
 
 ## Technika Podwójna
 #  Crono + Lucca
 - Wir Ognia
-Crono and Lucca spin and attack a group of monsters with fire.
+Crono i Lucca obracają się i atakują grupę potworów ogniem.
 - Ognisty miecz 2
-Crono and Lucca can attack a group of enemies with this magic sword.
+Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
 - Ognisty miecz
-They attack only one enemy with thier fire sword.
+Atakują tylko jednego przeciwnika swoim ognistym mieczem.
 
 `Strona 41`
+## Technika Podwójna
+#  Crono + Frog
+- Ci
+Crono i Marle obracają się i odzyskują część PŻ drużyny.
+- Lodowy miecz 2
+Crono i Marle mogą zadawać wrogom jeszcze większe obrażenia.
+- Lodowy miecz
+Atakują wroga magicznym lodowym mieczem.
 
+## Technika Podwójna
+#  Crono + Robo
+- Wir Ognia
+Crono i Lucca obracają się i atakują grupę potworów ogniem.
+- Ognisty miecz 2
+Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
+- Ognisty miecz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbNzMwMTk5MzU0LDE5ODMwNTY5MzJdfQ==
 -->
