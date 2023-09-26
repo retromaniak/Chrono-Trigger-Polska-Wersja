@@ -802,7 +802,8 @@ Walcząc z potworami, zdobywasz punkty technologii. Twoje poziomy technologiczne
 Każdy członek musi mieć wymagane MP, aby używać Technik podwójnych i potrójnych.
 
 `Strona 52`
+# Wiejskie 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOT
-gzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbODg5ODYwMjExLC0yMDgyODI0MDM3LC0xNz
+czMjk5MTQsMTk4MzA1NjkzMl19
 -->
