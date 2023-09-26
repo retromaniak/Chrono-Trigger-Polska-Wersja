@@ -627,10 +627,10 @@ Robo trzyma Crono i obraca się, tnąc wroga.
 ## Technika Podwójna
 #  Crono + Ayla
 - Rolo strzał
-Crono i Frog biegną w formacji X.
-- Sokoli strz
-Frog dźga wroga, a Crono uderza w niego piorunem.
-- Struień Ostrzy
+Crono throws Ayla, and she drops onto an enemy and kicks it in the head.
+- Sokoli strzał
+Ayla throws Crono and he slashes the enemy
+- Voltowe ugryzienie
 Frog tworzy wodospad, z którego Crono spada na przeciwnika.
 
 ## Technika Podwójna
@@ -643,5 +643,5 @@ Crono daje moc błyskawicy Robo, który obraca się i strzela wiązką wysokiego
 Robo trzyma Crono i obraca się, tnąc wroga.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU4Mjc0NjcsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE2MzI3NDY0MDAsMTk4MzA1NjkzMl19
 -->
