@@ -729,8 +729,13 @@ Robo i Ayla rzucają wrogiem, powodując poważne obrażenia.
 Robo rzuca Aylą, a ona obraca się i kopie przeciwnika.
 
 `Strona 48`
+## Technika Potrójna
+#  Crono + Marle + Lucca
 
+### Delta Force
+Light, Fire and Water MAgic mix to create an energy tr
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzMDcyOTY4LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbLTE0OTkzMDIyMTcsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
