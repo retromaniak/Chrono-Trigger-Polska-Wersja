@@ -706,20 +706,20 @@ Lucca i Ayla atakują wrogów tornadem płomieni.
 Frog skacze i tnie wrogów ognistym mieczem.
 - Uzdrawiająca fala
 Przywołują ogromną żabę, która atakuje magią ognia. 
-- Liniowa bomba
+- Bańka pułapka
 Lucca rzuca bomby, podczas gdy Frog leci na linię wrogów i tnie ich.
 
 ## Technika Podwójna
 #  Frog + Ayla
-- Płomienne uderzenie
+- Całus z języczkiem
 Stopy Ayli stają w płomieniach, a ona kopie przeciwnika.
-- Oślepiające uderzenie
+- Zrzut z kopniakiem
 Ayla skacze, używając Magii Ognia i kopie przeciwnika.
-- Płomienny wir
+- Bąbelkowe
 Lucca i Ayla atakują wrogów tornadem płomieni.
 
 `Strona 46`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDY0MTgzLC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbMTAzNjMwNjE1MiwtMTc3MzI5OTE0LDE5OD
+MwNTY5MzJdfQ==
 -->
