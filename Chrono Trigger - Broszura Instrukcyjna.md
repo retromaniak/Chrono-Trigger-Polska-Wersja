@@ -608,11 +608,11 @@ Atakują tylko jednego przeciwnika swoim ognistym mieczem.
 ## Technika Podwójna
 #  Crono + Frog
 - Cięcie X
-Crono and Frog dash in an X formation.
-- Spire
-Fr.
+Crono i Frog biegną w formacji X.
+- Wstrząs
+Frog dźga wroga, a Crono uderza w niego piorunem.
 - Struień Ostrzy
-Atakują wroga magicznym lodowym mieczem.
+Frog creates a waterfall and Crono drops from it onto an enemy.
 
 ## Technika Podwójna
 #  Crono + Robo
@@ -622,5 +622,5 @@ Crono i Lucca obracają się i atakują grupę potworów ogniem.
 Crono i Lucca mogą zaatakować grupę wrogów tym magicznym mieczem.
 - Ognisty miecz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjQxMDIwMywxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbNDYwNzQyNjMsMTk4MzA1NjkzMl19
 -->
