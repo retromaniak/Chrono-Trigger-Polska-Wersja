@@ -739,18 +739,35 @@ Magia światła, ognia i wody łączą się, tworząc trójkąt energii, który 
 #  Crono + Marle + Frog
 
 ### Impuls Łukowy
-Marle uses Ice Magic while Crono and Frog jump and slash an enemy.
+Marle używa magii lodu, podczas gdy Crono i Frog skaczą i tną wrogów.
 
 ## Technika Potrójna
 #  Crono + Marle + Robo
 
 ### Linia życia
-Marle uses Ice Magic while Crono and Frog jump and slash an enemy.
+Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obrażeń.
 
 `Strona 49`
+## Technika Potrójna
+#  Crono + Marle + Ayl
+
+### Delta Force
+Magia światła, ognia i wody łączą się, tworząc trójkąt energii, który zadaje maksymalne obrażenia wszystkim wrogom.
+
+## Technika Potrójna
+#  Crono + Marle + Frog
+
+### Impuls Łukowy
+Marle używa magii lodu, podczas gdy Crono i Frog skaczą i tną wrogów.
+
+## Technika Potrójna
+#  Crono + Marle + Robo
+
+### Linia życia
+Pozwala każdemu członkowi na jednorazowy powrót do zdrowia, gdy doznał obrażeń.
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTM5NDI4LC0xNzczMjk5MTQsMTk4Mz
-A1NjkzMl19
+eyJoaXN0b3J5IjpbMTEzOTg1MzQyOSwtMTc3MzI5OTE0LDE5OD
+MwNTY5MzJdfQ==
 -->
