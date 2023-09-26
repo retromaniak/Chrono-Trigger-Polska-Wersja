@@ -665,9 +665,9 @@ Magia sopli Robo pomaga mu uporać się z wrogiem.
 ## Technika Podwójna
 #  Marle + Ayla
 - Podwójny urok
-Magia wody Marle i Froga łączy się w lodowy deszcz, który działa na wszystkich wrogów.
+MArle and Ayla fluster the enemy and recover an item.
 - Rzut blokiem
-Marle i Frog odzyskują PŻ drużyny.
+Ayla throws a huge icicle at a group of enemies.
 - Lodowy rzut
 Zrzucają na wrogów ogromne sople lodu.
 
@@ -675,12 +675,12 @@ Zrzucają na wrogów ogromne sople lodu.
 #  Lucca + Robo
 - Ognista pięść
 Marle i Robo emitują aurę, która odzyskuje część PŻ drużyny.
-- Podwój
+- Podwójna bomba
 Uwalniają Magię Uzdrawiającą, która odzyskuje większość PŻ drużyny.
-- Atak lodowy
+- Ognisty bój
 Magia sopli Robo pomaga mu uporać się z wrogiem.
 
 `Strona 45`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM4NDQxMywxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE0Njk2OTAyNjMsMTk4MzA1NjkzMl19
 -->
