@@ -733,16 +733,24 @@ Robo rzuca Aylą, a ona obraca się i kopie przeciwnika.
 #  Crono + Marle + Lucca
 
 ### Delta Force
-Light, Fire and Water MAgic mix to create an energy triangle that delivers maximum damage to all enemies.
+Magia światła, ognia i wody łączą się, tworząc trójkąt energii, który zadaje maksymalne obrażenia wszystkim wrogom.
 
 ## Technika Potrójna
 #  Crono + Marle + Frog
 
 ### Impuls Łukowy
-Marle uses Ice Magic while Crono and Frog 
+Marle uses Ice Magic while Crono and Frog jump and slash an enemy.
+
+## Technika Potrójna
+#  Crono + Marle + Robo
+
+### Linia życia
+Marle uses Ice Magic while Crono and Frog jump and slash an enemy.
+
+`Strona 49`
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjA5MzQ1MywtMTc3MzI5OTE0LDE5OD
-MwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTUyOTM5NDI4LC0xNzczMjk5MTQsMTk4Mz
+A1NjkzMl19
 -->
