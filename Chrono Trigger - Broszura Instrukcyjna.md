@@ -714,12 +714,22 @@ Wewnątrz wielkiej bańki Robo zostaje uniesiony, a następnie zrzucony na wroga
 - Całus z języczkiem
 Pocałunek ten leczy wszystkie dolegliwości drużyny.
 - Zrzut z kopniakiem
-Frog and Ayla jump together and stab an enemy.
+Frog i Ayla skaczą razem i dźgają wroga.
 - Bąbelkowe uderzenie
-Ayla, inside a bubble, is dropped on an enemy.
+Ayla, wewnątrz bańki, zostaje zrzucona na wroga.
 
 `Strona 47`
+## Technika Podwójna
+#  Robo + Ayla
+- Boogie
+Ayla and Robo cast Stop 
+- Rzut bestią
+Frog i Ayla skaczą razem i dźgają wroga.
+- Wirujące uderzenie
+Ayla, wewnątrz bańki, zostaje zrzucona na wroga.
+
+`Strona 48`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIzNjQ2NTUsLTE3NzMyOTkxNCwxOT
-gzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTA5NTE3NDczNywtMTc3MzI5OTE0LDE5OD
+MwNTY5MzJdfQ==
 -->
