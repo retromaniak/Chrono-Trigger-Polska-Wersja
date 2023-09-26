@@ -834,8 +834,14 @@ Istnieją dwa rodzaje podróży w czasie - Bramy Czasu i Wehikuł Czasu. (Podró
 ## Bramy Czasu
 Aby aktywować bramę czasową, po prostu zbliż się do niej i naciśnij A. Dopiero wtedy dowiesz się, dokąd cię zabierze.
 ## Maszyna Czasu
-At some point you will find a Time Machine. With this you can go to any era you want. The Time Machine can also be used as an air vehicle.
+W pewnym momencie znajdziesz Wehikuł Czasu. Dzięki niemu możesz przenieść się do dowolnej epoki. Wehikuł czasu może być również używany jako pojazd powietrzny.
+
+Aby otworzyć wskaźnik czasu, naciśnij Y, gdy jesteś w Wehikule czasu.
+
+`Strona 55`
+# Koniec Czasu
+This world exists beyond the realm of time. It is the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTEzMDQxOSwtMjA4MjgyNDAzNywtMT
-c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE1MDE0Nzg5MjQsLTIwODI4MjQwMzcsLT
+E3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
