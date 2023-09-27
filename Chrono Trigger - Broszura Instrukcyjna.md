@@ -852,10 +852,12 @@ Spekkio może nauczyć cię magii. Jeśli zdecydujesz się z nim walczyć i wygr
 # Lista Broni i Pancerzy
 ## Weapons
 Following s a list of weapons you will use rhroughout the game. Each weapon, when it's equiped, affects your Attack power.
-|    Nazwa   |   Cena  | Opis |
+|    Nazwa   |   Cena  |                Opis               |
 |------------|---------|-----------------------------------|
 | Aeon Blade |         | Zwiększa liczbę punktów ataku o 70|
+|   Air Gun   |         | Zwiększa liczbę punktów ataku o 5|
+| Alloy Blade |         | Zwiększa liczbę punktów ataku o 70|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODk3NTkzLDEzNDM3MDE5MjAsLTIwOD
-I4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE4Nzk2OTQ4NjIsMTM0MzcwMTkyMCwtMj
+A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
