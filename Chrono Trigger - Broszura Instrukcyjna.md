@@ -925,11 +925,13 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Gold Helmet |         | Zwiększa liczbę punktów obrony o 18 |
 
 `Strona 59`
-|    Nazwa    |   Cena  |                Opis                |
-|-------------|---------|------------------------------------|
-| Hammer Arm  | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
+|    Nazwa    |   Cena  |                 Opis                |
+|-------------|---------|-------------------------------------|
+| Gold Suit   | 1300 G  | Zwiększa liczbę punktów obrony o 30 |
+| Hide Cap    |         | Zwiększa liczbę punktów obrony o 3; Crono nosi jako pierwszy |
+| Hide Tunic   | 1300 G  | Zwiększa liczbę punktów obrony o 30 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDQ0NDE3MCwtOTk3MjE0MzAxLDEzND
+eyJoaXN0b3J5IjpbMTcxMDYwMjQ3NiwtOTk3MjE0MzAxLDEzND
 M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
 OTMyXX0=
 -->
