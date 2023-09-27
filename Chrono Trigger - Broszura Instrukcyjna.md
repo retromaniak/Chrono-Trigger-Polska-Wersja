@@ -916,8 +916,11 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Beret       |         | Zwiększa liczbę punktów obrony o 17 |
 | Black Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% siły ataku Magii Cienia |
 | Blue Vest   |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% siły ataku Magii Wody |
-
+| Bronze Mail | 520 G   | Zwiększa liczbę punktów obrony o 16 |
+| Bronze Helmet | 200 G   | Zwiększa liczbę punktów obrony o 8 |
+| Cera Topper |       | Zwiększa liczbę punktów obrony o 16 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMD
-gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE3MTUxOTAyMDgsLTk5NzIxNDMwMSwxMz
+QzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1
+NjkzMl19
 -->
