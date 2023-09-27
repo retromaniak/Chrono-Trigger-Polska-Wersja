@@ -882,15 +882,15 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Lode Bow    |         | Zwiększa liczbę punktów ataku o 20 |
 | Lode Sword  | 4000 G  | Zwiększa liczbę punktów ataku o 20 |
 | Magma Hand  |         | Zwiększa liczbę punktów ataku o 70 |
-| Masamune   | 850 G   | Zwiększa liczbę punktów ataku o 7  |
-| Demon Edge  | 1700 G  | Zwiększa liczbę punktów ataku o 80; zadaje 1,5-krotne obrażenia stworzeniom magicznym|
-| Doom Finger |         | Zwiększa liczbę punktów ataku o 50 |
-| Dream Bow   |         | Zwiększa liczbę punktów ataku o 60 |
+| Masamune    |         | Zwiększa liczbę punktów ataku o 75 |
+| Megablast   |         | Zwiększa liczbę punktów ataku o 80 |
+| Megaton Arm | 15000 G | Zwiększa liczbę punktów ataku o 90 |
+| Mirage    |         | Zwiększa liczbę punktów ataku o 30 |
 | Dream Gun   |         | Zwiększa liczbę punktów ataku o 60 |
 | Flash Blade | 18000 G | Zwiększa liczbę punktów ataku o 90 |
 | Fleaver     |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
 | Flint Edge  |         | Zwiększa liczbę punktów ataku o 40 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NzgzMzAsMTM0MzcwMTkyMCwtMj
-A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTAyMDIyMDk1OCwxMzQzNzAxOTIwLC0yMD
+gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
