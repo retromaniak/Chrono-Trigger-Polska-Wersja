@@ -904,11 +904,11 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 |-------------|---------|------------------------------------|
 | Steel Sabre | 800 G   | Zwiększa liczbę punktów ataku o 15 |
 | Stone Arm   |         | Zwiększa liczbę punktów ataku o 40 |
-| Iron Bow    |         | Zwiększa liczbę punktów ataku o 15 |
-| Iron Sword  |         | Zwiększa liczbę punktów ataku o 10 |
-| Kaiser Arm  |         | Zwiększa liczbę punktów ataku o 120|
-| Lode Bow    |         | Zwiększa liczbę punktów ataku o 20 |
+| Swallow     |         | Zwiększa liczbę punktów ataku o 145; zwinność o 3 |
+| Tim Arm     |         | Zwiększa liczbę punktów ataku o 20 |
+| Vedic Blade |         | Zwiększa liczbę punktów ataku o 135|
+| Wood Sword  |         | Zwiększa liczbę punktów ataku o 20 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDc3NjE1OSwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbMjAxMjY0NjE4MCwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
