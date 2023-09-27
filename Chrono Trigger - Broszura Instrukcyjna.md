@@ -953,11 +953,87 @@ Poniżej znajduje się lista pancerzy i hełmów. Każdy pancerz lub hełm będz
 
 `Strona 60`
 ## Akcesoria
-|  Nazwa  | Opis                           |
-|---------|--------------------------------|
-|Bandana  | Podnosi zwinność|
+Poniżej znajduje się lista akcesoriów. Z każdym akcesorium związana jest specjalna umiejętność.
+| Nazwa          | Opis                                                     |
+|----------------|----------------------------------------------------------|
+| Bandana        | Podnosi zwinność o 1 punkt                               |
+| Berserker      | Podnosi atak i obronę, ale nie można kontrolować postaci |
+| Black Rock     | Pozwala użyć ukrytej magii, Dark Eternal                 |
+| Charm Top      | Zwiększa umiejętność uroku Ayli                          |
+| Dash Ring      | Zwiększa zwinność o 3 punkty                             |
+| Defender       | Zwiększa Wigor o 2 punkty                                |
+| Gold Earring   | Zwiększa linit max. PŻ o 50%                             |
+| Gold Stud      | Zmniejsza konsumpcję many o 75%                          |
+| Hero Medal     | Zwiększa szansę na krytyczne uderzenie Masamune          |
+| Hit Ring       | Zwiększa cios o 10 punktów                               |
+| Magic Ring     | Zwiększa moc magiczną o 6 punktów                        |
+| Magic Scarf    | Zwiększa moc magiczną o 2 punkty                         |
+| Power Glove    | Zwiększa zdrowie o 2 punkty                              |
+| Power Scarf    | Zwiększa zdrowie o 4 punkty                              |
+| Rage Band      | Gdy postać jest atakowana, kontratakuje przez 50% czasu. |
+| Ribbon         | Podnosi atak krytyczny o 2                               |
+| Sight Scope    | Pozwala postaci zobaczyć PŻ wroga (oprócz bossów)        |
+| Silver Earring | Podnosi max. PŻ o 25%                                    |
+| Silver Stud    | Redukuje zużycie many o 50%                              |
+| Speed Belt     | Podnosi zwinność o 2 punkty                              |
+
+`Strona 61`
+| Nazwa          | Opis                                                     |
+|----------------|----------------------------------------------------------|
+| Third Eye      | Zwiększa unik o 200%                                     |
+| Wall Ring      | Zwiększa obronę przed magią o 10 punktów                 |
+| Wallet         | Zamienia punkty rozwoju w Złoto                          |
+
+## Przedmioty
+Gdy poziom PŻ lub MP jest niski w trakcie lub po walce, będziesz potrzebować tych przedmiotów. Szybkość regeneracji jest różna w zależności od przedmiotu.
+| Nazwa          | Cena | Opis                                                |
+|----------------|------|-----------------------------------------------------|
+| Barrier        |      | Obniża obrażenia od magii o 1/3                     |
+| Elixir         |      | Odnawia PŻ i MP                                     |
+| Ether          |      | Odnawia 10 MP                                       |
+| Full Ether     |      | Odnawia 60 MP                                       |
+| Full Tonic     | 700G | Odnawia 500 PŻ                                      |
+| Heal           | 10G  | Odnawia Status                                      |
+| Magic Tab      |      | Dodaje 1 punkt mocy magicznej                       |
+| Mid Ether      |      | Odnawia 30 MP                                       |
+| Mid Tonic      | 100G | Odnawia 200 PŻ                                      |
+| Power Meal     |      | Odnawia PŻ i MP                                     |
+| Power Tab      |      | Dodaje 1 punkt siły                                 |
+| Revive         | 200G | Niweluje negatywny efekt w walce                    |
+| Shelter        | 150G | Odnawia PŻ i MP na mapier oraz w punktach zapisu    |
+| Shield         |      | Obniża obrażenia fizyczne o 1/3                     |
+
+`Strona 62`
+| Nazwa          | Cena | Opis                                                |
+|----------------|------|-----------------------------------------------------|
+| Speed Tab      |      | Dodaje 1 punkt zwinności                            |
+| Tonic          | 10G  | Odnawia 50 PŻ                                       |
+
+## Przedmioty Specjalne
+Te specjalne przedmioty pomogą ci przezwyciężyć pewne trudności, które możesz napotkać na początku gry. Pamiętaj, w której epoce znajdziesz te przedmioty.
+| Nazwa          | Opis                                                  |
+|----------------|-------------------------------------------------------|
+| Bike Key       | Wymagany do przejazdu motorem powietrznym / 2300 A.D. |
+| Broken Hilt    | Wymagany do naprawy Masamune / 600 A.D.               |
+| Broken Sword   | Wymagany do naprawy Masamune / 600 A.D.               |
+| Clone          | Lalka którą dostaniesz na placu Leene / 1000 A.D.     |
+| Dreamstone     | Wymagany do naprawy Masamune / 65 mln P.N.E.          |
+| Fang           | Można wymienić na inny przedmiot / 65 mln P.N.E.      |
+| Feather        | Można wymienić na inny przedmiot / 65 mln P.N.E.      |
+| Gate Key       | Aktywuje Bramę Czasu i Tunel Czasowy / 600 A.D.       |
+| Horn           | Można wymienić na inny przedmiot / 65 mln P.N.E.      |
+| Jerky          | Podaruj to komuś w 600 roku / 600 A.D.                |
+| Pendant        | Ma specjalną moc otwierania skrzyń skarbów i zapieczętowanych skrzyń / 1000 A.D. |
+| Petal          | Można wymienić na inny przedmiot / 65 mln P.N.E.      |
+| Race Log       | Służy do zapisu najlepszych czasów na motorze powierznym / 2300 A.D. |
+| Ruby Knife     | Niezbędny do zniszczenia tajnej broni / 12000 P.N.E.  |
+| Seed           | Nadzieja dla żyjących w przyszłości. / 2300 A.D.      |
+
+`Strona 63`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTg2MjMyOSwtMTU4NjQ1NjAzMCwtOT
+eyJoaXN0b3J5IjpbMTQ4Njg2NDU3MCwtMTU4NjQ1NjAzMCwtOT
 k3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMy
 OTkxNCwxOTgzMDU2OTMyXX0=
 -->
