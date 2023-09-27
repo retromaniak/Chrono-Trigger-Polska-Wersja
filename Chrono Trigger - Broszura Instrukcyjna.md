@@ -943,9 +943,11 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | R'bow Helmet |         | Zwiększa liczbę punktów obrony o 35; Absorbuje 50% obrażeń od Magii Błyskawic |
 | Red Vest    |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% obrażeń od magii Ognia |
 | Rock Helmet |         | Zwiększa liczbę punktów obrony o 20 |
-| Ruby Vest   |         | Zwiększa liczbę punktów obrony o 45; Redukuje obrażenia od m |
+| Ruby Vest   |         | Zwiększa liczbę punktów obrony o 45; Redukuje obrażenia od magii ognia o 50% |
+| Taban Helmet |         | Zwiększa liczbę punktów obrony o 20 |
+| Taban Suit  |         | Zwiększa liczbę punktów obrony o 79; zwinność o 3; daje pewną ochronę przed ma |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzI5NzI0NCwtOTk3MjE0MzAxLDEzND
-M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
-OTMyXX0=
+eyJoaXN0b3J5IjpbOTM5MDc3NTYsLTk5NzIxNDMwMSwxMzQzNz
+AxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1Njkz
+Ml19
 -->
