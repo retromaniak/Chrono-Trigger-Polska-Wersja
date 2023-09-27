@@ -914,8 +914,10 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Aeon Helmet |         | Zwiększa liczbę punktów obrony o 33 |
 | Aeon Suit   |         | Zwiększa liczbę punktów obrony o 75 |
 | Beret       |         | Zwiększa liczbę punktów obrony o 17 |
-| Black Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% magii  |
+| Black Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% siły ataku Magii Cienia |
+| Blue Vest   |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% siły ataku Magii Wody |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Mjg0MDc0MiwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
