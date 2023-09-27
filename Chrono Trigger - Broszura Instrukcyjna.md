@@ -921,9 +921,15 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Cera Topper |         | Zwiększa liczbę punktów obrony o 23 |
 | Dark Mail   |         | Zwiększa liczbę punktów obrony o 45; Podnosi poziom obrony przed magią o 5 |
 | Flash Mail  |         | Zwiększa liczbę punktów obrony o 64 |
-| Bronze Mail | 520 G   | Zwiększa liczbę punktów obrony o 25 |
+| Glow Helmet |         | Zwiększa liczbę punktów obrony o 25 |
+| Gold Helmet |         | Zwiększa liczbę punktów obrony o 18 |
+
+`Strona 59`
+|    Nazwa    |   Cena  |                Opis                |
+|-------------|---------|------------------------------------|
+| Hammer Arm  | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM3NzEyMTIsLTk5NzIxNDMwMSwxMz
-QzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1
-NjkzMl19
+eyJoaXN0b3J5IjpbMjA4NDQ0NDE3MCwtOTk3MjE0MzAxLDEzND
+M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
+OTMyXX0=
 -->
