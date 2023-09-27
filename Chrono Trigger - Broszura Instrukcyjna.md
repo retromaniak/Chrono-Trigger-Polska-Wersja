@@ -1031,11 +1031,13 @@ Te specjalne przedmioty pomogą ci przezwyciężyć pewne trudności, które mo�
 
 `Strona 63`
 # Przewodnik po przygodzie
-Prepare to embark ona journey of the ages. You will meet many people and see many wondrous 
+Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudownych rzeczy. Ten przewodnik pomoże w początkach.
+
+`Strona 64`
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNTI0NjUyLC0xNTg2NDU2MDMwLC05OT
-cyMTQzMDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5
-OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOT
+k3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMy
+OTkxNCwxOTgzMDU2OTMyXX0=
 -->
