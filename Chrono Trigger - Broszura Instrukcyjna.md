@@ -938,9 +938,11 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Lumin Robe  | 6500 G  | Zwiększa liczbę punktów obrony o 52 |
 | Maiden Suit |         | Zwiększa liczbę punktów obrony o 18 |
 | Mermaid Cap |         | Zwiększa liczbę punktów obrony o 35 |
-| Meso Mail   |         | Zwiększa liczbę punktów obrony o 63;  |
+| Meso Mail   |         | Zwiększa liczbę punktów obrony o 63; Zwiększa obronę przed magią o 5 |
+| Mist Robe   |         | Zwiększa liczbę punktów obrony o 54 |
+| R'bow Helmet |         | Zwiększa liczbę punktów obrony o 35; Ucina 50%  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwMTUxNjM3LC05OTcyMTQzMDEsMTM0Mz
-cwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5
-MzJdfQ==
+eyJoaXN0b3J5IjpbMTA3MzEyNzY5NSwtOTk3MjE0MzAxLDEzND
+M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
+OTMyXX0=
 -->
