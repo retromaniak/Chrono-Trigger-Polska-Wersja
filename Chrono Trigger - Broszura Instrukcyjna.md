@@ -908,7 +908,7 @@ Poniżej znajduje się lista broni, z których będziesz korzystać w trakcie gr
 | Wood Sword  |         | Zwiększa liczbę punktów ataku o 3  |
 
 ## Zbroje i Hełmy
-Following is a list of armor and helmets. Each armor or helmet will affect your Defense power differently when it's equipped.
+Poniżej znajduje się lista pancerzy i hełmów. Każdy pancerz lub hełm będzie miał inny wpływ na moc Obrony, gdy jest wyposażony.
 |    Nazwa    |   Cena  |                 Opis                |
 |-------------|---------|-------------------------------------|
 | Aeon Helmet |         | Zwiększa liczbę punktów obrony o 33 |
@@ -949,9 +949,12 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Taban Vest  |         | Zwiększa liczbę punktów obrony o 33; zwinność o 2; daje pewną ochronę przed magią ognia |
 | Time Hat    |         | Zwiększa liczbę punktów obrony o 30; daje pewną ochronę przed spowolnieniem i zatrzymaniem |
 | Titan Vest  | 1200 G  | Zwiększa liczbę punktów obrony o 32 |
-| White Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% at |
+| White Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% obrażeń od magii błyskawic |
+
+`Strona 60`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTU1OTcyMywtOTk3MjE0MzAxLDEzND
-M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
-OTMyXX0=
+eyJoaXN0b3J5IjpbLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMz
+QzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1
+NjkzMl19
 -->
