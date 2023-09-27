@@ -947,9 +947,11 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Taban Helmet |         | Zwiększa liczbę punktów obrony o 20 |
 | Taban Suit  |         | Zwiększa liczbę punktów obrony o 79; zwinność o 3; daje pewną ochronę przed magią ognia |
 | Taban Vest  |         | Zwiększa liczbę punktów obrony o 33; zwinność o 2; daje pewną ochronę przed magią ognia |
-| Time Hat    |         | Zwiększa liczbę punktów obrony o 30; daje pewną ochronę przed s |
+| Time Hat    |         | Zwiększa liczbę punktów obrony o 30; daje pewną ochronę przed spowolnieniem i zatrzymaniem |
+| Titan Vest  | 1200 G  | Zwiększa liczbę punktów obrony o 32 |
+| White Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% at |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg3ODY5NDksLTk5NzIxNDMwMSwxMz
-QzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1
-NjkzMl19
+eyJoaXN0b3J5IjpbLTQ0MTU1OTcyMywtOTk3MjE0MzAxLDEzND
+M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
+OTMyXX0=
 -->
