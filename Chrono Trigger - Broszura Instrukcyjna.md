@@ -952,9 +952,12 @@ Poniżej znajduje się lista pancerzy i hełmów. Każdy pancerz lub hełm będz
 | White Vest  |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% obrażeń od magii błyskawic |
 
 `Strona 60`
-
+## Akcesoria
+|  Nazwa  | Opis                           |
+|---------|--------------------------------|
+|Bandana  | Podnosi zwinność|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMz
-QzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1
-NjkzMl19
+eyJoaXN0b3J5IjpbMjA3MTg2MjMyOSwtMTU4NjQ1NjAzMCwtOT
+k3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMy
+OTkxNCwxOTgzMDU2OTMyXX0=
 -->
