@@ -940,9 +940,10 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Mermaid Cap |         | Zwiększa liczbę punktów obrony o 35 |
 | Meso Mail   |         | Zwiększa liczbę punktów obrony o 63; Zwiększa obronę przed magią o 5 |
 | Mist Robe   |         | Zwiększa liczbę punktów obrony o 54 |
-| R'bow Helmet |         | Zwiększa liczbę punktów obrony o 35; Ucina 50%  |
+| R'bow Helmet |         | Zwiększa liczbę punktów obrony o 35; Absorbuje 50% obrażeń od Magii Błyskawic |
+| Red Vest    |         | Zwiększa liczbę punktów obrony o 45; Absorbuje 50% obrażeń magią Ognia |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzEyNzY5NSwtOTk3MjE0MzAxLDEzND
+eyJoaXN0b3J5IjpbMTY1MDY1MjI0OSwtOTk3MjE0MzAxLDEzND
 M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
 OTMyXX0=
 -->
