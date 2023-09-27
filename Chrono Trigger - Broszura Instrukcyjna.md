@@ -851,7 +851,7 @@ Spekkio może nauczyć cię magii. Jeśli zdecydujesz się z nim walczyć i wygr
 `Strona 56`
 # Lista Broni i Pancerzy
 ## Broń
-Following s a list of weapons you will use rhroughout the game. Each weapon, when it's equiped, affects your Attack power.
+Poniżej znajduje się lista broni, z których będziesz korzystać w trakcie gry. Każda broń, gdy jest wyposażona, wpływa na siłę ataku.
 |    Nazwa    |   Cena  |                Opis                |
 |-------------|---------|------------------------------------|
 |  Aeon Blade |         | Zwiększa liczbę punktów ataku o 70 |
@@ -900,7 +900,15 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 `Strona 58`
 ## Zbroje i Hełmy
 Following is a list of armor and helmets. Each armor or helmet will affect your Defense power differently when it's equipped.
+|    Nazwa    |   Cena  |                Opis                |
+|-------------|---------|------------------------------------|
+| Steel Sabre | 800 G   | Zwiększa liczbę punktów ataku o 15 |
+| Stone Arm   |         | Zwiększa liczbę punktów ataku o 40 |
+| Iron Bow    |         | Zwiększa liczbę punktów ataku o 15 |
+| Iron Sword  |         | Zwiększa liczbę punktów ataku o 10 |
+| Kaiser Arm  |         | Zwiększa liczbę punktów ataku o 120|
+| Lode Bow    |         | Zwiększa liczbę punktów ataku o 20 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI3NTYxOTUsMTM0MzcwMTkyMCwtMj
-A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTAzNDc3NjE1OSwxMzQzNzAxOTIwLC0yMD
+gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
