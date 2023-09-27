@@ -1030,10 +1030,12 @@ Te specjalne przedmioty pomogą ci przezwyciężyć pewne trudności, które mo�
 | Seed           | Nadzieja dla żyjących w przyszłości. / 2300 A.D.      |
 
 `Strona 63`
+# Przewodnik po przygodzie
+Prepare to embark ona journey of the ages. You will meet many people and see many wondrous 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Njg2NDU3MCwtMTU4NjQ1NjAzMCwtOT
-k3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMy
-OTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbNTEwNTI0NjUyLC0xNTg2NDU2MDMwLC05OT
+cyMTQzMDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5
+OTE0LDE5ODMwNTY5MzJdfQ==
 -->
