@@ -867,8 +867,10 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Doom Finger |         | Zwiększa liczbę punktów ataku o 50 |
 | Dream Bow   |         | Zwiększa liczbę punktów ataku o 60 |
 | Dream Gun   |         | Zwiększa liczbę punktów ataku o 60 |
-| Alloy Blade | 18000 G | Zwiększa liczbę punktów ataku o 90|
+| Flash Blade | 18000 G | Zwiększa liczbę punktów ataku o 90 |
+| Fleaver     |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
+| Flint Edge |         | Zwiększa liczbę punktów ataku o 40 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODkzMjE1LDEzNDM3MDE5MjAsLTIwOD
+eyJoaXN0b3J5IjpbMzU4NTUxOTYyLDEzNDM3MDE5MjAsLTIwOD
 I4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
