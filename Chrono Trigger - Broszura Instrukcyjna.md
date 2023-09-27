@@ -935,9 +935,12 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Karate Gi   | 300 G   | Zwiększa liczbę punktów obrony o 10 |
 | Lode Helmet | 6500 G  | Zwiększa liczbę punktów obrony o 29 |
 | Lode Vest   | 8500 G  | Zwiększa liczbę punktów obrony o 71 |
-| Gold Suit   | 1300 G  | Zwiększa liczbę punktów obrony o 30 |
+| Lumin Robe  | 6500 G  | Zwiększa liczbę punktów obrony o 52 |
+| Maiden Suit |         | Zwiększa liczbę punktów obrony o 18 |
+| Mermaid Cap |         | Zwiększa liczbę punktów obrony o 35 |
+| Meso Mail   |         | Zwiększa liczbę punktów obrony o 63;  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTQ1NDU5MywtOTk3MjE0MzAxLDEzND
-M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
-OTMyXX0=
+eyJoaXN0b3J5IjpbODUwMTUxNjM3LC05OTcyMTQzMDEsMTM0Mz
+cwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5
+MzJdfQ==
 -->
