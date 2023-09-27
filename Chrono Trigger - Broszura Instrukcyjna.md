@@ -849,7 +849,8 @@ W tym miejscu mieszka starzec. Nie wiesz, kim on jest, ale udzieli ci przydatnej
 Spekkio może nauczyć cię magii. Jeśli zdecydujesz się z nim walczyć i wygrasz, nagrodzi cię przydatnymi przedmiotami.
 
 `Strona 56`
+# Lista 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMT
-c3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbNTUyNDQyNDUyLDEzNDM3MDE5MjAsLTIwOD
+I4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
