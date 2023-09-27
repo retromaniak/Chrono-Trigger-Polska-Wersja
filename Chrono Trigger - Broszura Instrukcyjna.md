@@ -858,8 +858,11 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 |   Air Gun   |         | Zwiększa liczbę punktów ataku o 5  |
 | Alloy Blade | 21000 G | Zwiększa liczbę punktów ataku o 110|
 | Auto Gun    | 1200 G  | Zwiększa liczbę punktów ataku o 15 |
-| Big Hand    | 18000 G| Zwiększa liczbę punktów ataku o 70|
+| Big Hand    | 18000 G | Zwiększa liczbę punktów ataku o 105|
+| Bolt Sword  |         | Zwiększa liczbę punktów ataku o 25 |
+| Bronze Bow  |         | Zwiększa liczbę punktów ataku o 3  |
+| Comet Arrow | 7        | Zwiększa liczbę punktów ataku o 70|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5NTg2MjIsMTM0MzcwMTkyMCwtMj
-A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTAwNzAxNDQyNCwxMzQzNzAxOTIwLC0yMD
+gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
