@@ -863,9 +863,9 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Bronze Bow  |         | Zwiększa liczbę punktów ataku o 3  |
 | Comet Arrow | 7800 G  | Zwiększa liczbę punktów ataku o 80 |
 | Dart Gun    | 850 G   | Zwiększa liczbę punktów ataku o 7  |
-| Aeon Blade |         | Zwiększa liczbę punktów ataku o 80;
-gives 1,5 times damage to Magical Creatures|
+| Demon Edge  | 1700 G  | Zwiększa liczbę punktów ataku o 80; zadaje 1,5-krotne obrażenia stworzeniom magicznym|
+| Doom Finger | 21000 G | Zwiększa liczbę punktów ataku o 110|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTAyNTE2OCwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbMTI3MDkxNDczNiwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
