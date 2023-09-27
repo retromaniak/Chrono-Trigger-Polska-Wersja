@@ -869,8 +869,28 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Dream Gun   |         | Zwiększa liczbę punktów ataku o 60 |
 | Flash Blade | 18000 G | Zwiększa liczbę punktów ataku o 90 |
 | Fleaver     |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
-| Flint Edge |         | Zwiększa liczbę punktów ataku o 40 |
+| Flint Edge  |         | Zwiększa liczbę punktów ataku o 40 |
+
+`Strona 57`
+|    Nazwa    |   Cena  |                Opis                |
+|-------------|---------|------------------------------------|
+|  Hammer Arm | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
+| Iron Blade  | 350 G   | Zwiększa liczbę punktów ataku o 7  |
+| Alloy Blade | 21000 G | Zwiększa liczbę punktów ataku o 110|
+| Auto Gun    | 1200 G  | Zwiększa liczbę punktów ataku o 15 |
+| Big Hand    | 18000 G | Zwiększa liczbę punktów ataku o 105|
+| Bolt Sword  |         | Zwiększa liczbę punktów ataku o 25 |
+| Bronze Bow  |         | Zwiększa liczbę punktów ataku o 3  |
+| Comet Arrow | 7800 G  | Zwiększa liczbę punktów ataku o 80 |
+| Dart Gun    | 850 G   | Zwiększa liczbę punktów ataku o 7  |
+| Demon Edge  | 1700 G  | Zwiększa liczbę punktów ataku o 80; zadaje 1,5-krotne obrażenia stworzeniom magicznym|
+| Doom Finger |         | Zwiększa liczbę punktów ataku o 50 |
+| Dream Bow   |         | Zwiększa liczbę punktów ataku o 60 |
+| Dream Gun   |         | Zwiększa liczbę punktów ataku o 60 |
+| Flash Blade | 18000 G | Zwiększa liczbę punktów ataku o 90 |
+| Fleaver     |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
+| Flint Edge  |         | Zwiększa liczbę punktów ataku o 40 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4NTUxOTYyLDEzNDM3MDE5MjAsLTIwOD
-I4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTYwNzI0MzcyOCwxMzQzNzAxOTIwLC0yMD
+gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
