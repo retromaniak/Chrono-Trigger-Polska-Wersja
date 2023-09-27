@@ -894,8 +894,11 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Ruby Gun    |         | Zwiększa liczbę punktów ataku o 40 |
 | Rune Blade  |         | Zwiększa liczbę punktów ataku o 120; zwiększa poziom magii o 4 |
 | Sage Bow    |         | Zwiększa liczbę punktów ataku o 40 |
-| Shock Wave  |         | Zwiększa liczbę punktów ataku o 110 |
+| Shock Wave  |         | Zwiększa liczbę punktów ataku o 110; czasem zmniejsza zwinność przeciwników |
+| Star Sword  |         | Zwiększa liczbę punktów ataku o 125|
+
+`Strona 58`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcyNTAzOCwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbMTg4ODk0Njc1MSwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
