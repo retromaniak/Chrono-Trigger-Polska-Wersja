@@ -849,8 +849,10 @@ W tym miejscu mieszka starzec. Nie wiesz, kim on jest, ale udzieli ci przydatnej
 Spekkio może nauczyć cię magii. Jeśli zdecydujesz się z nim walczyć i wygrasz, nagrodzi cię przydatnymi przedmiotami.
 
 `Strona 56`
-# Lista 
+# Lista Broni i Pancerzy
+## Weapons
+Following s a list of weapons you will use rhroughout the game. Each weapon, when it's equiped, aff
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyNDQyNDUyLDEzNDM3MDE5MjAsLTIwOD
-I4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE3NzY4NDQ0NDEsMTM0MzcwMTkyMCwtMj
+A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
