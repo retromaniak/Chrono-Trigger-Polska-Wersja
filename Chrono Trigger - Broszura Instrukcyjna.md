@@ -932,9 +932,12 @@ Following is a list of armor and helmets. Each armor or helmet will affect your 
 | Hide Tunic  |         | Zwiększa liczbę punktów obrony o 5  |
 | Iron Helmet | 500 G   | Zwiększa liczbę punktów obrony o 14 |
 | Iron Suit   | 800 G   | Zwiększa liczbę punktów obrony o 28 |
+| Karate Gi   | 300 G   | Zwiększa liczbę punktów obrony o 10 |
+| Lode Helmet | 6500 G  | Zwiększa liczbę punktów obrony o 29 |
+| Lode Vest   | 8500 G  | Zwiększa liczbę punktów obrony o 71 |
 | Gold Suit   | 1300 G  | Zwiększa liczbę punktów obrony o 30 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjAyNjQ1MywtOTk3MjE0MzAxLDEzND
+eyJoaXN0b3J5IjpbMTI3OTQ1NDU5MywtOTk3MjE0MzAxLDEzND
 M3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2
 OTMyXX0=
 -->
