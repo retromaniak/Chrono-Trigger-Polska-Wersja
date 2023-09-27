@@ -876,10 +876,10 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 |-------------|---------|------------------------------------|
 |  Hammer Arm | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
 | Iron Blade  | 350 G   | Zwiększa liczbę punktów ataku o 7  |
-| Alloy Blade | 21000 G | Zwiększa liczbę punktów ataku o 110|
-| Auto Gun    | 1200 G  | Zwiększa liczbę punktów ataku o 15 |
-| Big Hand    | 18000 G | Zwiększa liczbę punktów ataku o 105|
-| Bolt Sword  |         | Zwiększa liczbę punktów ataku o 25 |
+| Iron Bow    | 800 G   | Zwiększa liczbę punktów ataku o 15 |
+| Iron Sword  |         | Zwiększa liczbę punktów ataku o 10 |
+| Kaiser Arm  |         | Zwiększa liczbę punktów ataku o 120|
+| Lode B  |         | Zwiększa liczbę punktów ataku o 20 |
 | Bronze Bow  |         | Zwiększa liczbę punktów ataku o 3  |
 | Comet Arrow | 7800 G  | Zwiększa liczbę punktów ataku o 80 |
 | Dart Gun    | 850 G   | Zwiększa liczbę punktów ataku o 7  |
@@ -891,6 +891,6 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Fleaver     |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
 | Flint Edge  |         | Zwiększa liczbę punktów ataku o 40 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzI0MzcyOCwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbLTc5MDQxMjE2NSwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
