@@ -850,7 +850,7 @@ Spekkio może nauczyć cię magii. Jeśli zdecydujesz się z nim walczyć i wygr
 
 `Strona 56`
 # Lista Broni i Pancerzy
-## Weapons
+## Broń
 Following s a list of weapons you will use rhroughout the game. Each weapon, when it's equiped, affects your Attack power.
 |    Nazwa    |   Cena  |                Opis                |
 |-------------|---------|------------------------------------|
@@ -898,7 +898,9 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Star Sword  |         | Zwiększa liczbę punktów ataku o 125|
 
 `Strona 58`
+## Zbroje i Hełmy
+Following is a list of armor and helmets. Each armor or helmet will affect your Defense power differently when it's equipped.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODk0Njc1MSwxMzQzNzAxOTIwLC0yMD
-gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE1NDI3NTYxOTUsMTM0MzcwMTkyMCwtMj
+A4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
