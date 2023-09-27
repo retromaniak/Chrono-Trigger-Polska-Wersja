@@ -874,7 +874,7 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 `Strona 57`
 |    Nazwa    |   Cena  |                Opis                |
 |-------------|---------|------------------------------------|
-|  Hammer Arm | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
+| Hammer Arm  | 3500 G  | Zwiększa liczbę punktów ataku o 25 |
 | Iron Blade  | 350 G   | Zwiększa liczbę punktów ataku o 7  |
 | Iron Bow    | 800 G   | Zwiększa liczbę punktów ataku o 15 |
 | Iron Sword  |         | Zwiększa liczbę punktów ataku o 10 |
@@ -889,8 +889,11 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Mop         |         | Zwiększa liczbę punktów ataku o 1  |
 | Pearl Edge  | 22000 G | Zwiększa liczbę punktów ataku o 105; zadaje 1,5-krotne obrażenia stworzeniom magicznym |
 | Plasma Gun  | 3200 G  | Zwiększa liczbę punktów ataku o 25 czasem zatrzymuje robotycznych przeciwników|
-| Red Katana  | 4500 G  | Zwiększa liczbę punktów ataku o 30  |
+| Red Katana  | 4500 G  | Zwiększa liczbę punktów ataku o 30; zwiększa poziom magii o 2 |
+| Robin bow   | 1850 G  | Zwiększa liczbę punktów ataku o 25 |
+| Ruby Gun    |         | Zwiększa liczbę punktów ataku o 40 |
+| Ruby Gun    |         | Zwiększa liczbę punktów ataku o 40 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Nzk0MTY2MiwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbMTA5MzQzNTAyMSwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
