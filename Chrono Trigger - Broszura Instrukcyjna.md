@@ -888,9 +888,9 @@ Following s a list of weapons you will use rhroughout the game. Each weapon, whe
 | Mirage Hand |         | Zwiększa liczbę punktów ataku o 30 |
 | Mop         |         | Zwiększa liczbę punktów ataku o 1  |
 | Pearl Edge  | 22000 G | Zwiększa liczbę punktów ataku o 105; zadaje 1,5-krotne obrażenia stworzeniom magicznym |
-| Plasma Gun |         | Zwiększa liczbę punktów ataku o 43 i zwinności o 2|
-| Flint Edge  |         | Zwiększa liczbę punktów ataku o 40 |
+| Plasma Gun  | 3200 G  | Zwiększa liczbę punktów ataku o 25 czasem zatrzymuje robotycznych przeciwników|
+| Red Katana  | 4500 G  | Zwiększa liczbę punktów ataku o 30  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODQ4MzUyMCwxMzQzNzAxOTIwLC0yMD
+eyJoaXN0b3J5IjpbMTA5Nzk0MTY2MiwxMzQzNzAxOTIwLC0yMD
 gyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
