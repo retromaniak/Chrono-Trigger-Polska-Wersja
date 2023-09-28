@@ -1090,9 +1090,19 @@ Walcz z grupą, aby podnieść swoje poziomy.
 ## Wyścig
 This is a game of chance. Bet on the runner you think will win and pick up some silver points.
 
-G
+Go to the race tent to bet.
+
+Ask the old man first; he'll tell you who might win.
+
+### Mini Gra 3
+## Wyzwanie Młota
+Hit the base and ring the bell to win.
+
+Push A.
+
+When you are all 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzg2NzY3NywxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTc3NzYzNzY5LDE0NDQ4NTM1OTAsLTE1OD
+Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
+MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
