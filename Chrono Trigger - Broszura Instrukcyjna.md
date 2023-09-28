@@ -1287,10 +1287,10 @@ ZDEZORIENTOWANY PRZEZ KRAWLIEGO?
 CZY BRAKUJE MASAMUNE?
 
 Oficjalna Solucja do gry Chrono Trigger od Nintendo przybywa z pomocą.
-Zadzwoń już dziś aby zamówić swoją Solucję do gry Chrono Trigger za jedyne 
+Zadzwoń już dziś aby zamówić swoją Solucję do gry Chrono Trigger za jedyne 39,95 PLN (399500 PLZ).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEzODA0MTcsLTg0MjEwOTM4MCwtMj
-EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
-NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
-QsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbMTEzNzUxOTYzNiwtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
