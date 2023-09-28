@@ -1079,17 +1079,20 @@ Na targach odbywa się wiele gier. Sprawdź je wszystkie.
 
 ### Mini Gra 1
 ## GATO
-
 W tej grze walczysz ze śpiewającym robotem Gato. Jeśli go pokonasz i wygrasz, otrzymasz 15 srebrników.
 
 Podejdź i wejdź na ring.
 
 Walcz z grupą, aby podnieść swoje poziomy.
 
-`Strona 66`
+`Strona 67`
+### Mini Gra 2
+## Wyścig
+This is a game of chance. Bet on the runner you think will win and pick up some silver points.
 
+G
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMDU4MTM0LDE0NDQ4NTM1OTAsLTE1OD
-Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
-MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTcwMzg2NzY3NywxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
