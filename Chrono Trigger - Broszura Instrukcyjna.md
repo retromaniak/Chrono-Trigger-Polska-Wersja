@@ -1201,10 +1201,14 @@ Marle (przebrana za królową) zwolniła swój personel, aby nikt nie nabrał po
 
 `Strona 73`
 ## Poszukując Marle
+Out of nowhere comes a blue flash of light, and Marle disappears once again. Now what? Lucca arrives in the nick of time.
 
+The light flashes and Marle disappears.
+
+Just when you throught
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTI5MCwtODQyMTA5MzgwLC0yMTM0Mj
-Y4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0MzAx
-LDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOT
-gzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTY0MzE1NjgwOCwtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
