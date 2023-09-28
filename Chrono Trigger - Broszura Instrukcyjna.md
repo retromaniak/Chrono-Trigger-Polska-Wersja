@@ -1119,9 +1119,16 @@ Wejdź do namiotu na własne ryzyko.
 Powiedz panu Bekklerowi, w którą grę chcesz zagrać.
 
 `Strona 68`
-## Crono poznaje 
+## Crono poznaje Marle
+You are so impressed with the fair, you don't notice the girl in front of you and bump into her!
+
+You bump heads.
+
+You are given the option to change Marle's name if you wish.
+
+Mar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcwNjc2ODM1LDE0NDQ4NTM1OTAsLTE1OD
-Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
-MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbMTAyOTAxNTUwMSwxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
