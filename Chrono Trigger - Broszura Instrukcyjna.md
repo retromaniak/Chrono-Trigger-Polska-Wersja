@@ -1186,9 +1186,12 @@ Wyposażaj przedmioty, gdy je kupujesz, w ten sposób będziesz dobrze chroniony
 ## Las Guardia
 To make your way to Guardia Castle, you must first go through Guardia Forest. The monsters in this area are not friendly. Be ready for battle.
 
-Monster
+Monsters may be waiting for you be ready.
+
+# Zamek Guardia
+When you get to the castle the suards won't let you in. The Queen tells them to d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDQ3MjcxOCwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMjEzMTYyNDY4MCwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
