@@ -1036,9 +1036,12 @@ Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudow
 `Strona 64`
 # Początki Przygody
 ## 1000 A.D. - Królestwo Guardia
-At present in the Kingdom of Guardia, monsters and humans coexist with each other in peace and harmony. Today h
+At present in the Kingdom of Guardia, monsters and humans coexist with each other in peace and harmony. Today they celebrate thier kingdom.
+
+# Dzień dobry, Crono
+The scene opens with Crono's mother trying to wake him. Today is the day of the big fair and she doesn't 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDIzMjAyNDQsMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTMwMTQyMDU4NywxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
