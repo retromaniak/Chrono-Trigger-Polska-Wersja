@@ -1096,13 +1096,17 @@ Ask the old man first; he'll tell you who might win.
 
 ### Mini Gra 3
 ## Wyzwanie Młota
-Hit the base and ring the bell to win.
+Uderz w bazę i zadzwoń dzwonkiem, aby wygrać.
 
-Push A.
+Naciśnij A.
 
-When you are all 
+Gdy wrócisz do końca, ponownie naciśnij A.
+
+### Mini Gra 4
+## Konkurs Guzzlinga
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzYzNzY5LDE0NDQ4NTM1OTAsLTE1OD
-Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
-MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE2NzQzMzg3OTYsMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
