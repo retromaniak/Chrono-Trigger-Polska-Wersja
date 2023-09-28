@@ -1259,10 +1259,16 @@ Jeśli liczba punktów życia spadnie zbyt nisko, użyj Toniku, aby je uzupełni
 Po wygranej spotkasz Królową.
 
 ## Nie możesz pokonać bossa?
-If you are having a problem beating the Chancellor, your levels are too low. Go to the forest and build them up.
+Jeśli masz problem z pokonaniem Kanclerza, twoje poziomy są zbyt niskie. Udaj się do lasu i rozbuduj je.
+
+`Strona 77`
+## Ponownie Zamek
+Go back to the castle and talk to everyone. When you're learned evrything, you're ready to go back to 1000 A.D.
+
+When you return, everyone is very grateful that you 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNTc0NTIzLC04NDIxMDkzODAsLTIxMz
-QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
-MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
-E5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTYyODUzNzQwMywtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
