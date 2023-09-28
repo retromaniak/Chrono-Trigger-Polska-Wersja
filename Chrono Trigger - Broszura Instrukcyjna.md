@@ -1278,12 +1278,15 @@ Uważaj na potwory - wciąż są w pobliżu.
 
 `Strona 78`
 # Wiele Zakończeń
-Depending on where you are when you defeat the final boss, you will get a different ending. Below are some examples of what they may be.
+W zależności od tego, gdzie jesteś, gdy pokonasz finałowego bossa, otrzymasz inne zakończenie. Poniżej znajduje się kilka przykładów.
 
-# Ciesz się 
+# Ciesz się grą
+
+RUNNING AWAY FROM REPTITES?
+CONFUS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTIzMzc2LC04NDIxMDkzODAsLTIxMz
-QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
-MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
-E5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbMTU0NDAyOTkyOCwtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
