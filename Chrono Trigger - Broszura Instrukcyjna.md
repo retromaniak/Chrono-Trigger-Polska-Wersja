@@ -1163,9 +1163,10 @@ Lądujesz na górze w królestwie Guardia.
 Twoja pierwsza bitwa najprawdopodobniej odbędzie się z tymi małymi niebieskimi stworzeniami.
 
 `Strona 71`
-
+## Zdobądź i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQyNjg1OSwxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc1NDU0NTgsLTIxMzQyNjg1OSwxND
+Q0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQzMDEsMTM0Mzcw
+MTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5Mz
+JdfQ==
 -->
