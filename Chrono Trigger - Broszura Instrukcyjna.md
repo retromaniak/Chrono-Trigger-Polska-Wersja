@@ -1039,7 +1039,6 @@ Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudow
 Obecnie w Królestwie Guardii potwory i ludzie współistnieją ze sobą w pokoju i harmonii. Dziś świętują swoje królestwo.
 
 # Dzień dobry, Crono
-
 Scena rozpoczyna się, gdy matka Crono próbuje go obudzić. Dziś jest dzień wielkiego jarmarku i nie chce, aby go przegapił.
 
 Możesz zostać w pokoju Crono w dowolnym momencie za darmo
@@ -1050,16 +1049,15 @@ Przejdź na prawo, aby znaleźć pigułkę mocy.
 
 `Strona 65`
 ## Odwiedziny domów
-Walk around to all of your neighbors' houses and talk with them. They will have information you may need for your jorney.
+Przejdź się do domów sąsiadów i porozmawiaj z nimi. Będą mieli informacje, których możesz potrzebować dla swojego adwokata.
 
-Walk up to the house and push A; this allows you to enter.
+Podejdź do domu i naciśnij A; pozwoli ci to wejść do środka.
 
-There are people at the Mayor's house with important things to tell you.
+W domu burmistrza są ludzie, którzy mają ci coś ważnego do powiedzenia.
 
-This strange box will not open for you... yet. Come back later.
+To dziwne pudełko nie otworzy się dla ciebie... jeszcze. Wróć później.
 
 ## Idź do lasu Guardia
-
 Las jest pełen potworów. Jeśli zostawisz je w spokoju, nie będą ci przeszkadzać. Aby jednak budować swoje poziomy, powinieneś z nimi walczyć.
 
 Wpadnij na te potwory, a będą gotowe do walki.
@@ -1075,15 +1073,15 @@ W tej chwili nie możesz wejść do zamku. Będziesz musiał wrócić później.
 Strażnicy nie wpuszczą cię do środka.
 
 ## Odwiedź plac Leeny
-Today there is a big fair in Leene Square. Go there to check things out and talk to people. Don't forget about the invention Lucca wanted to show you.
+Dziś na placu Leeny odbywają się duże targi. Udaj się tam, aby sprawdzić różne rzeczy i porozmawiać z ludźmi. Nie zapomnij o wynalazku, który chciała ci pokazać Lucca.
 
-Many games are going on ai the fair. Check them all out.
+Na targach odbywa się wiele gier. Sprawdź je wszystkie.
 
 ### Mini Gra 1
 ## GATO
-
+This game is with Gato the Singing Robot. If you fight him and win
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjA2ODEwMCwxNDQ0ODUzNTkwLC0xNT
+eyJoaXN0b3J5IjpbMTMwMjMzMzczNiwxNDQ0ODUzNTkwLC0xNT
 g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
 NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
