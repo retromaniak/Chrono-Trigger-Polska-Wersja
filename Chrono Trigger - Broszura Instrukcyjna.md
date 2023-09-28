@@ -1241,10 +1241,17 @@ Ukryte drzwi zostały otwarte.
 Teraz musisz walczyć ze złym kanclerzem.
 
 `Strona 76`
-## Bitwa z pierwszym Bo
+## Bitwa z pierwszym Bossem
+The Chancellor is actually an evil monster posing as a human. Beat him and get the Queen back.
+
+Make sure you save your game before you battle the Chancellor.
+
+He will transform to his true self - an evil monster.
+
+Use your 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ0MjQwODEsLTg0MjEwOTM4MCwtMj
-EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
-NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
-QsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbLTE0MzMxNjY2LC04NDIxMDkzODAsLTIxMz
+QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
+MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
+E5ODMwNTY5MzJdfQ==
 -->
