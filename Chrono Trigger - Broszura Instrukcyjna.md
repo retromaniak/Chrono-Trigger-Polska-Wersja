@@ -1070,14 +1070,20 @@ Idź w prawo, aby znaleźć kapsułę mocy.
 
 `Strona 66`
 ## Zamek Guardia
-Right now you can't enter the castle. You'll need to come back later.
+W tej chwili nie możesz wejść do zamku. Będziesz musiał wrócić później.
 
-The guards will not let you in.
+Strażnicy nie wpuszczą cię do środka.
 
 ## Odwiedź plac Leeny
-Today there is a big fair in Leene Square. Go there to check things out and talk to people. Don't forget about the invention Lucca wanted to show you
+Today there is a big fair in Leene Square. Go there to check things out and talk to people. Don't forget about the invention Lucca wanted to show you.
+
+Many games are going on ai the fair. Check them all out.
+
+### Mini Gra 1
+## GATO
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1ODMyNDUxLDE0NDQ4NTM1OTAsLTE1OD
-Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
-MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbMTA4MjA2ODEwMCwxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
