@@ -1034,10 +1034,11 @@ Te specjalne przedmioty pomogą ci przezwyciężyć pewne trudności, które mo�
 Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudownych rzeczy. Ten przewodnik pomoże w początkach.
 
 `Strona 64`
-
-
+# Początki Przygody
+## 1000 A.D. - Królestwo Guardia
+At present in the Kingdom of Guardia, monsters and humans coexist with each other in peace and harmony. Today h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOT
-k3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMy
-OTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTE4NDIzMjAyNDQsMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
