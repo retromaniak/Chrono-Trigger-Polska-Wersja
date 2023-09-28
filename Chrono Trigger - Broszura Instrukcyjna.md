@@ -1153,9 +1153,16 @@ Crono zniknął... ale gdzie?
 `Strona 70`
 # Kontynuacja Przygody!
 ## 600 A.D. - Królestwo Guardia
-Now is the time for the real adventure to begin. You are sent to t
+Now is the time for the real adventure to begin. You are sent to the past, and although you are still in Guardia, it is different.
+
+## Gdzie to jest
+When you arrive you have no idea what era you are in.
+
+You land on a mountain in Guardia Kingdom.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzcyMTUxOCwxNDQ0ODUzNTkwLC0xNT
+eyJoaXN0b3J5IjpbLTI1NjQxNzI1OCwxNDQ0ODUzNTkwLC0xNT
 g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
 NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
