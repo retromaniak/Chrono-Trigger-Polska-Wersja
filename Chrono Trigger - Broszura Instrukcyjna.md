@@ -1216,10 +1216,18 @@ Siostry w pobliżu organów są kluczem.
 
 `Strona 74`
 ## Pojawienie się Froga
-Frog is the Queen's guard and has come to the cathedral to save heer
+Frog is the Queen's guard and has come to the cathedral to save her. He will also save your from the monsters.
+
+Frog is very proper and galant.
+
+Play the organ and a door will open.
+
+Go through the door and you will find the Queen.
+
+Go to the skull switch
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDg4OTE4NSwtODQyMTA5MzgwLC0yMT
-M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
-MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
-wxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTExODU0NDcxOTcsLTg0MjEwOTM4MCwtMj
+EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
+NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
+QsMTk4MzA1NjkzMl19
 -->
