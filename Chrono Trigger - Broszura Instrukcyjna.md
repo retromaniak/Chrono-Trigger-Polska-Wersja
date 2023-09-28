@@ -1036,18 +1036,21 @@ Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudow
 `Strona 64`
 # Początki Przygody
 ## 1000 A.D. - Królestwo Guardia
-At present in the Kingdom of Guardia, monsters and humans coexist with each other in peace and harmony. Today they celebrate thier kingdom.
+Obecnie w Królestwie Guardii potwory i ludzie współistnieją ze sobą w pokoju i harmonii. Dziś świętują swoje królestwo.
 
 # Dzień dobry, Crono
-The scene opens with Crono's mother trying to wake him. Today is the day of the big fair and she doesn't want him to miss it.
 
-You can stay in Crono's room any time for free
+Scena rozpoczyna się, gdy matka Crono próbuje go obudzić. Dziś jest dzień wielkiego jarmarku i nie chce, aby go przegapił.
 
-When mother mentions Lucca, you will have the opportunity to change Lucca's name if you wish.
+Możesz zostać w pokoju Crono w dowolnym momencie za darmo
 
-Go to the far fight to find a 
+Kiedy matka wspomni o Lucce, będziesz miał okazję zmienić imię Luki, jeśli chcesz.
+
+Przejdź na prawo, aby znaleźć pigułkę mocy.
+
+`Strona 65`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTMxNDM4NjgsMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTg0Mzg4ODQ1OCwxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
