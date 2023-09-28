@@ -21,5 +21,8 @@ Efekt do tego stopnia mnie zachwycił że postanowiłem o zredagowaniu jej na no
 
 Oczywiście widoczny projekt nie jest ostateczną wersją i może nieco różnić się od pliku produkcyjnego, dobrze wizualizuje jednak jego kształt.
 
+28.09.2023 - Poniżej przedstawiam wygląd okładki instrukcji - oczywiście wersja ta nie jest plikiem produkcyjnym jednak na jej podstawie zostanie on wykonany.
+![Instrukcja pogląd okładki](https://images89.fotosik.pl/688/1d9be8707b5baf83.jpg)
+
 ## Zakończenie
 Na ten moment to tyle. W obecnym kształcie plik nie przechodził przez korektę więc za wszelkie błędy przepraszam zwłaszcza że jestem dysgrafem. Jak tylko jednak pojawi się jakaś aktualizacja to będę informował na bieżąco.
