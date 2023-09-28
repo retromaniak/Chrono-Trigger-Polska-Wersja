@@ -1104,9 +1104,17 @@ Gdy wrócisz do końca, ponownie naciśnij A.
 
 ### Mini Gra 4
 ## Konkurs Guzzlinga
+How many cans of soda can you drink in the allotted time?
 
+Push A as fast as you can.
+
+Drink all 8 cans to win.
+
+### Mini Gra 5
+## Magiczny Namiot
+Save your game before you go in. The
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQzMzg3OTYsMTQ0NDg1MzU5MCwtMT
+eyJoaXN0b3J5IjpbLTE5MDIzMTM5MDAsMTQ0NDg1MzU5MCwtMT
 U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
 MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
