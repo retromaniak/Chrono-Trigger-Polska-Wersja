@@ -1228,16 +1228,23 @@ Podejdź do przełącznika czaszki i naciśnij go. Kolce znikną.
 
 `Strona 75`
 ## Otwórz ukryte drzwi
-You will soon come across a message on the wall. There is actually a door here, but you must hit the switch to open it.
+Wkrótce natkniesz się na wiadomość na ścianie. W rzeczywistości są tu drzwi, ale musisz nacisnąć przełącznik, aby je otworzyć.
 
-Find the message. In the wall next to it is a hidden door.
+Znajdź wiadomość. W ścianie obok znajdują się ukryte drzwi.
 
-Hit the skull switch and the spikes will again disappear.
+Naciśnij przełącznik czaszki, a kolce ponownie znikną.
 
-After you beat the guards, play
+Po pokonaniu strażników zagraj na organach.
+
+Ukryte drzwi zostały otwarte.
+
+Teraz musisz walczyć ze złym kanclerzem.
+
+`Strona 76`
+## Bitwa z pierwszym Bo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxOTk5Nzc2LC04NDIxMDkzODAsLTIxMz
-QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
-MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
-E5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE0MTQ0MjQwODEsLTg0MjEwOTM4MCwtMj
+EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
+NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
+QsMTk4MzA1NjkzMl19
 -->
