@@ -1120,15 +1120,18 @@ Powiedz panu Bekklerowi, w którą grę chcesz zagrać.
 
 `Strona 68`
 ## Crono poznaje Marle
-You are so impressed with the fair, you don't notice the girl in front of you and bump into her!
+Jesteś pod takim wrażeniem targów, że nie zauważasz dziewczyny przed sobą i wpadasz na nią!
 
-You bump heads.
+Zderzacie się głowami.
 
-You are given the option to change Marle's name if you wish.
+Masz możliwość zmiany imienia Marle, jeśli chcesz.
 
-Mar
+Marle chce się zatrzymać i zrobić zakupy.
+
+## Często zapisuj
+Bardzo ważne jest, aby często zapisywać grę. W tym momencie zapisz grę.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTAxNTUwMSwxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MzU5MTU2NjYsMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
