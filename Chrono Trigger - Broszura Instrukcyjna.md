@@ -1168,10 +1168,20 @@ The best way to find out where you are is to ask around. Just be nice and people
 
 When you exit the moutain, look for people to talk with.
 
-Be careful what you say. People 
+Be careful what you say. People might think you are crazy.
+
+Go shopping and stock up on necesary supplies.
+
+Go to the Inn and rest.
+
+Talk to Toma and he'll give you helpful information.
+
+Go to the bridge and see what's happening.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAzMjAxNDgsLTIxMzQyNjg1OSwxND
-Q0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQzMDEsMTM0Mzcw
-MTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5Mz
-JdfQ==
+eyJoaXN0b3J5IjpbMjAyNzc1OTQ1NywtMjEzNDI2ODU5LDE0ND
+Q4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAx
+OTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl
+19
 -->
