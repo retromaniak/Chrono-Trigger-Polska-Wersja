@@ -1216,17 +1216,21 @@ Siostry w pobliżu organów są kluczem.
 
 `Strona 74`
 ## Pojawienie się Froga
-Frog is the Queen's guard and has come to the cathedral to save her. He will also save your from the monsters.
+Frog jest strażnikiem królowej i przybył do katedry, aby ją uratować. Uratuje cię również przed potworami.
 
-Frog is very proper and galant.
+Frog jest bardzo porządny i elegancki.
 
-Play the organ and a door will open.
+Zagraj na organach, a otworzą się drzwi.
 
-Go through the door and you will find the Queen.
+Przejdź przez drzwi, a znajdziesz królową.
 
-Go to the skull switch
+Podejdź do przełącznika czaszki i naciśnij go. Kolce znikną.
+
+`Strona 75`
+## Otwórz ukryte drzwi
+You will soon come across a message on the wall. There is actually a dor here
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU0NDcxOTcsLTg0MjEwOTM4MCwtMj
+eyJoaXN0b3J5IjpbLTEwODY0NTE1MDYsLTg0MjEwOTM4MCwtMj
 EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
 NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
 QsMTk4MzA1NjkzMl19
