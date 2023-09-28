@@ -1050,9 +1050,13 @@ Przejdź na prawo, aby znaleźć pigułkę mocy.
 
 `Strona 65`
 ## Odwiedziny domów
-Walk around to all of your neigh
+Walk around to all of your neighbors' houses and talk with them. They will have information you may need for your jorney.
+
+Walk up to the house and push A; this allows you to enter.
+
+There are people at the Mayor's house with importa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTAwMDkwNzEsMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTIxNTEzNTUsMTQ0NDg1MzU5MCwtMTU4Nj
+Q1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQw
+MzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
