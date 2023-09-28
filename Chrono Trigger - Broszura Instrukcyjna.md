@@ -1189,18 +1189,22 @@ To make your way to Guardia Castle, you must first go through Guardia Forest. Th
 Monsters may be waiting for you be ready.
 
 # Zamek Guardia
-When you get to the castle the suards won't let you in. The Queen tells them to do so.
+Kiedy dotrzesz do zamku, strażnicy nie wpuszczą cię do środka. Królowa każe im to zrobić.
 
-The Queen will meet you ai the stairs.
+Królowa spotka się z tobą na schodach.
 
-The Queen's guard will take you to her.
+Strażnik królowej zaprowadzi cię do niej.
 
-Keep your eyes open for treasure boxes throughout the castle.
+Miej oczy otwarte na skrzynie ze skarbami w całym zamku.
 
-Marle (disguised as 
+Marle (przebrana za królową) zwolniła swój personel, aby nikt nie nabrał podejrzeń.
+
+`Strona 73`
+## Poszukując Marle
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzM5MTg5NiwtODQyMTA5MzgwLC0yMT
-M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
-MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
-wxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMjk5NTI5MCwtODQyMTA5MzgwLC0yMTM0Mj
+Y4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0MzAx
+LDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNCwxOT
+gzMDU2OTMyXX0=
 -->
