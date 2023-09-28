@@ -1242,26 +1242,27 @@ Teraz musisz walczyć ze złym kanclerzem.
 
 `Strona 76`
 ## Bitwa z pierwszym Bossem
-The Chancellor is actually an evil monster posing as a human. Beat him and get the Queen back.
+Kanclerz jest w rzeczywistości złym potworem udającym człowieka. Pokonaj go i odzyskaj królową.
 
-Make sure you save your game before you battle the Chancellor.
+Upewnij się, że zapisałeś grę przed walką z Kanclerzem.
 
-He will transform to his true self - an evil monster.
+Przemieni się on w swoje prawdziwe oblicze - złego potwora.
 
-Use your Tech attack to fight the Chancellor.
+Użyj ataku technicznego, aby walczyć z Kanclerzem.
 
-Also use your Combo Attack to fight him.
+Użyj także ataku Combo, aby z nim walczyć.
 
-Combo attacks are very effective against him.
+Ataki Combo są bardzo skuteczne w walce z nim.
 
-If your Hit Points get too low, use Tonic to refill.
+Jeśli liczba punktów życia spadnie zbyt nisko, użyj Toniku, aby je uzupełnić.
 
-After you win, you will meet The Queen.
+Po wygranej spotkasz Królową.
 
-
+## Nie możesz pokonać bossa?
+If you are having a problem beating the Chancellor, your levels are too low. Go to the forest and build them up.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5MDY3MywtODQyMTA5MzgwLC0yMT
-M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
-MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
-wxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbODYzNTc0NTIzLC04NDIxMDkzODAsLTIxMz
+QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
+MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
+E5ODMwNTY5MzJdfQ==
 -->
