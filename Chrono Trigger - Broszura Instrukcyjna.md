@@ -1189,9 +1189,17 @@ To make your way to Guardia Castle, you must first go through Guardia Forest. Th
 Monsters may be waiting for you be ready.
 
 # Zamek Guardia
-When you get to the castle the suards won't let you in. The Queen tells them to d
+When you get to the castle the suards won't let you in. The Queen tells them to do so.
+
+The Queen will meet you ai the stairs.
+
+The Queen's guard will take you to her.
+
+Keep your eyes open for treasure boxes throughout the castle.
+
+Marle (disguised as 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTYyNDY4MCwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTA3NzM5MTg5NiwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
