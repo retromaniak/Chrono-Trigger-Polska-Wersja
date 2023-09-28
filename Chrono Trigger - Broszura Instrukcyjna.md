@@ -1163,9 +1163,14 @@ Lądujesz na górze w królestwie Guardia.
 Twoja pierwsza bitwa najprawdopodobniej odbędzie się z tymi małymi niebieskimi stworzeniami.
 
 `Strona 71`
-## Zdobądź i
+## Zdobądź informacje
+The best way to find out where you are is to ask around. Just be nice and people will let you know.
+
+When you exit the moutain, look for people to talk with.
+
+Be careful what you say. People 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc1NDU0NTgsLTIxMzQyNjg1OSwxND
+eyJoaXN0b3J5IjpbLTExMzAzMjAxNDgsLTIxMzQyNjg1OSwxND
 Q0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQzMDEsMTM0Mzcw
 MTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5Mz
 JdfQ==
