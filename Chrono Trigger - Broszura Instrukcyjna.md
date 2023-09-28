@@ -1054,9 +1054,14 @@ Walk around to all of your neighbors' houses and talk with them. They will have 
 
 Walk up to the house and push A; this allows you to enter.
 
-There are people at the Mayor's house with importa
+There are people at the Mayor's house with important things to tell you.
+
+This strange box will not open for you... yet. Come back later.
+
+## Idź do lasu Guardia
+The forest is full of monsters. If you leave them alone they will not bother you. However, to bu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTEzNTUsMTQ0NDg1MzU5MCwtMTU4Nj
-Q1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQw
-MzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTEyMDAzNzQ1NTksMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
