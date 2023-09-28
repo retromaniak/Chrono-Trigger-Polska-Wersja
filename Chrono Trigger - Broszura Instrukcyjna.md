@@ -1201,19 +1201,24 @@ Marle (przebrana za królową) zwolniła swój personel, aby nikt nie nabrał po
 
 `Strona 73`
 ## Poszukując Marle
-Out of nowhere comes a blue flash of light, and Marle disappears once again. Now what? Lucca arrives in the nick of time.
 
-The light flashes and Marle disappears.
+Znikąd pojawia się niebieski błysk światła i Marle ponownie znika. I co teraz? Lucca przybywa w samą porę.
 
-Just when you throught you had no friends, Lucca appears.
+Światło rozbłysło i Marle zniknęła.
 
-Walk around and talk to everyone to figure out your next move.
+Gdy już myślałeś, że nie masz przyjaciół, pojawia się Lucca.
+
+Przejdź się i porozmawiaj ze wszystkimi, aby wymyślić następny ruch.
 
 ## W poszukiwaniu katedry
-Something weird is going on in the cathedral. Talk to the sisters.
-The sisters ne
+Coś dziwnego dzieje się w katedrze. Porozmawiaj z siostrami.
+Siostry w pobliżu organów są kluczem.
+
+`Strona 74`
+## Pojawienie się Froga
+Frog is the Queen's guard and has come to the cathedral to save heer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjE4MzQyNSwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTcyNDg4OTE4NSwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
