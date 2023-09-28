@@ -1178,10 +1178,13 @@ Talk to Toma and he'll give you helpful information.
 
 Go to the bridge and see what's happening.
 
+## Equip new Weapons A.S.A.P.
+Equip items as you buy them, that way you will be well protected and perform at your full potential.
 
+`Strona 72`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzc1OTQ1NywtMjEzNDI2ODU5LDE0ND
-Q4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAx
-OTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl
-19
+eyJoaXN0b3J5IjpbLTEwMzUyNjM1MDEsLTIxMzQyNjg1OSwxND
+Q0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQzMDEsMTM0Mzcw
+MTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5Mz
+JdfQ==
 -->
