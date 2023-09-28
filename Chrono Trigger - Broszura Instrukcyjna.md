@@ -1164,27 +1164,28 @@ Twoja pierwsza bitwa najprawdopodobniej odbędzie się z tymi małymi niebieskim
 
 `Strona 71`
 ## Zdobądź informacje
-The best way to find out where you are is to ask around. Just be nice and people will let you know.
 
-When you exit the moutain, look for people to talk with.
+Najlepszym sposobem, aby dowiedzieć się, gdzie jesteś, jest rozejrzenie się. Wystarczy być miłym, a ludzie dadzą ci znać.
 
-Be careful what you say. People might think you are crazy.
+Po wyjściu z góry szukaj ludzi, z którymi możesz porozmawiać.
 
-Go shopping and stock up on necesary supplies.
+Uważaj na to, co mówisz. Ludzie mogą pomyśleć, że jesteś szalony.
 
-Go to the Inn and rest.
+Idź na zakupy i zaopatrz się w niezbędne zapasy.
 
-Talk to Toma and he'll give you helpful information.
+Idź do gospody i odpocznij.
 
-Go to the bridge and see what's happening.
+Porozmawiaj z Tomą, który udzieli ci przydatnych informacji.
 
-## Equip new Weapons A.S.A.P.
-Equip items as you buy them, that way you will be well protected and perform at your full potential.
+Idź na most i zobacz, co się dzieje.
+
+## Używaj nowych broni A.S.A.P.
+Wyposażaj przedmioty, gdy je kupujesz, w ten sposób będziesz dobrze chroniony i będziesz mógł w pełni wykorzystać swój potencjał.
 
 `Strona 72`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUyNjM1MDEsLTIxMzQyNjg1OSwxND
-Q0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQzMDEsMTM0Mzcw
-MTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5Mz
-JdfQ==
+eyJoaXN0b3J5IjpbLTg0MjEwOTM4MCwtMjEzNDI2ODU5LDE0ND
+Q4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAx
+OTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl
+19
 -->
