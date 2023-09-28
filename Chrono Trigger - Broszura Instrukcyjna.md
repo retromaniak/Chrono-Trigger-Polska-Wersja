@@ -1151,9 +1151,11 @@ Ty również zostajesz wciągnięty.
 Crono zniknął... ale gdzie?
 
 `Strona 70`
-
+# Kontynuacja Przygody!
+## 600 A.D. - Królestwo Guardia
+Now is the time for the real adventure to begin. You are sent to t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjg0MTg4MiwxNDQ0ODUzNTkwLC0xNT
+eyJoaXN0b3J5IjpbLTM3NzcyMTUxOCwxNDQ0ODUzNTkwLC0xNT
 g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
 NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
