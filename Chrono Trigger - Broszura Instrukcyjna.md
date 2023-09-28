@@ -1248,10 +1248,20 @@ Make sure you save your game before you battle the Chancellor.
 
 He will transform to his true self - an evil monster.
 
-Use your 
+Use your Tech attack to fight the Chancellor.
+
+Also use your Combo Attack to fight him.
+
+Combo attacks are very effective against him.
+
+If your Hit Points get too low, use Tonic to refill.
+
+After you win, you will meet The Queen.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMxNjY2LC04NDIxMDkzODAsLTIxMz
-QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
-MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
-E5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTg5MDY3MywtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
