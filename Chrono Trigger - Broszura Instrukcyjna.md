@@ -1059,15 +1059,24 @@ There are people at the Mayor's house with important things to tell you.
 This strange box will not open for you... yet. Come back later.
 
 ## Idź do lasu Guardia
-The forest is full of monsters. If you leave them alone they will not bother you. However, to build your levels you should battle them.
 
-Run into these monsters and they're feady to fight.
+Las jest pełen potworów. Jeśli zostawisz je w spokoju, nie będą ci przeszkadzać. Aby jednak budować swoje poziomy, powinieneś z nimi walczyć.
 
-Continue battling to build up your levels.
+Wpadnij na te potwory, a będą gotowe do walki.
 
-Go to the far right to find a power capsule.
+Kontynuuj walkę, aby budować swoje poziomy.
+
+Idź w prawo, aby znaleźć kapsułę mocy.
+
+`Strona 66`
+## Zamek Guardia
+Right now you can't enter the castle. You'll need to come back later.
+
+The guards will not let you in.
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTYxNzc0MCwxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE1MzEwNTUwOTksMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
