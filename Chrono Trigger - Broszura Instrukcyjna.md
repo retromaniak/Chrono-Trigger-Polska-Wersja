@@ -1277,10 +1277,13 @@ Teraz nadszedł czas, aby wrócić do roku 1000 A.D. Wróć w góry i znajdź tu
 Uważaj na potwory - wciąż są w pobliżu.
 
 `Strona 78`
+# Wiele Zakończeń
+Depending on where you are when you defeat the final boss, you will get a different ending. Below are some examples of what they may be.
 
+# Ciesz się 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTMxOTc5NCwtODQyMTA5MzgwLC0yMT
-M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
-MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
-wxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTExNTIzMzc2LC04NDIxMDkzODAsLTIxMz
+QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
+MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
+E5ODMwNTY5MzJdfQ==
 -->
