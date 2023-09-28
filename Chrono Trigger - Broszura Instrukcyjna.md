@@ -1228,10 +1228,16 @@ Podejdź do przełącznika czaszki i naciśnij go. Kolce znikną.
 
 `Strona 75`
 ## Otwórz ukryte drzwi
-You will soon come across a message on the wall. There is actually a dor here
+You will soon come across a message on the wall. There is actually a door here, but you must hit the switch to open it.
+
+Find the message. In the wall next to it is a hidden door.
+
+Hit the skull switch and the spikes will again disappear.
+
+After you beat the guards, play
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODY0NTE1MDYsLTg0MjEwOTM4MCwtMj
-EzNDI2ODU5LDE0NDQ4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIx
-NDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MT
-QsMTk4MzA1NjkzMl19
+eyJoaXN0b3J5IjpbNDkxOTk5Nzc2LC04NDIxMDkzODAsLTIxMz
+QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
+MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
+E5ODMwNTY5MzJdfQ==
 -->
