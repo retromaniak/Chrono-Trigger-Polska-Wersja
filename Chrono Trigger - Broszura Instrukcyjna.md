@@ -1088,11 +1088,12 @@ Walcz z grupą, aby podnieść swoje poziomy.
 `Strona 67`
 ### Mini Gra 2
 ## Wyścig
-This is a game of chance. Bet on the runner you think will win and pick up some silver points.
 
-Go to the race tent to bet.
+Jest to gra losowa. Postaw na zawodnika, który Twoim zdaniem wygra i zgarnij srebrne punkty.
 
-Ask the old man first; he'll tell you who might win.
+Idź do namiotu wyścigowego, aby postawić zakład.
+
+Najpierw zapytaj starszego mężczyznę; powie ci, kto może wygrać.
 
 ### Mini Gra 3
 ## Wyzwanie Młota
@@ -1112,9 +1113,13 @@ Drink all 8 cans to win.
 
 ### Mini Gra 5
 ## Magiczny Namiot
-Save your game before you go in. The
+Save your game before you go in. There are three attractions; the second will reward you with a useful item.
+
+Enter the tent at your own risk.
+
+Tell Mr. Bekkler which game you want to play.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDIzMTM5MDAsMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbMTM2MDUwODEwMywxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
