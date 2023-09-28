@@ -1049,8 +1049,10 @@ Kiedy matka wspomni o Lucce, będziesz miał okazję zmienić imię Luki, jeśli
 Przejdź na prawo, aby znaleźć pigułkę mocy.
 
 `Strona 65`
+## Odwiedziny domów
+Walk around to all of your neigh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzg4ODQ1OCwxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE3MTAwMDkwNzEsMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
