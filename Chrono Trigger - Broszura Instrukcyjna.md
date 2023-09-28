@@ -1183,10 +1183,13 @@ Idź na most i zobacz, co się dzieje.
 Wyposażaj przedmioty, gdy je kupujesz, w ten sposób będziesz dobrze chroniony i będziesz mógł w pełni wykorzystać swój potencjał.
 
 `Strona 72`
+## Las Guardia
+To make your way to Guardia Castle, you must first go through Guardia Forest. The monsters in this area are not friendly. Be ready for battle.
 
+Monster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMzIzMTc4LC04NDIxMDkzODAsLTIxMz
-QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
-MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
-E5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTgzMDQ3MjcxOCwtODQyMTA5MzgwLC0yMT
+M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
+MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
+wxOTgzMDU2OTMyXX0=
 -->
