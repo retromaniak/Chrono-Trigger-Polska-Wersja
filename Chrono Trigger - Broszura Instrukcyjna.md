@@ -1074,9 +1074,10 @@ Right now you can't enter the castle. You'll need to come back later.
 
 The guards will not let you in.
 
-##
+## Odwiedź plac Leeny
+Today there is a big fair in Leene Square. Go there to check things out and talk to people. Don't forget about the invention Lucca wanted to show you
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwNTUwOTksMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbOTQ1ODMyNDUxLDE0NDQ4NTM1OTAsLTE1OD
+Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
+MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
