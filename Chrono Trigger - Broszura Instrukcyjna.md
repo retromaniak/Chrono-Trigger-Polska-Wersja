@@ -1289,9 +1289,9 @@ CZY BRAKUJE MASAMUNE?
 Oficjalny Poradnik do gry Chrono Trigger od Nintendo przybywa z pomocą.
 Zadzwoń pod numer [numer telefonu] już dziś aby zamówić swój Poradnik do gry Chrono Trigger za jedyne 39,95 PLN (399 500 PLZ).
 
-Oficjalny Poradnik do gry Chrono Trigger dostępny jest od 
+Oficjalny Poradnik do gry Chrono Trigger dostępny jest od 1 października 1995 roku.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1ODU3NjU0LC04NDIxMDkzODAsLTIxMz
+eyJoaXN0b3J5IjpbNjQ3OTAyOTU0LC04NDIxMDkzODAsLTIxMz
 QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
 MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
 E5ODMwNTY5MzJdfQ==
