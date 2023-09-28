@@ -1272,8 +1272,11 @@ Marle thinks maybe the group should go back to the future.
 These three people think Marle looks very much like the Queen.
 
 ## Powrót do przyszłości
+Now it's time to head back to 1000 A.D. Go back up the moutain and find the Time Tunnel. From there you will return home. This has been a very small part of your journey. Good luck with the rest.
+
+Watch out 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjczNTEzOCwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTg2NTkxNjYxNCwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
