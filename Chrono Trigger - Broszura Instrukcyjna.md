@@ -1039,9 +1039,15 @@ Przygotuj się na podróż wieków. Spotkasz wielu ludzi i zobaczysz wiele cudow
 At present in the Kingdom of Guardia, monsters and humans coexist with each other in peace and harmony. Today they celebrate thier kingdom.
 
 # Dzień dobry, Crono
-The scene opens with Crono's mother trying to wake him. Today is the day of the big fair and she doesn't 
+The scene opens with Crono's mother trying to wake him. Today is the day of the big fair and she doesn't want him to miss it.
+
+You can stay in Crono's room any time for free
+
+When mother mentions Lucca, you will have the opportunity to change Lucca's name if you wish.
+
+Go to the far fight to find a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTQyMDU4NywxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTExOTMxNDM4NjgsMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
