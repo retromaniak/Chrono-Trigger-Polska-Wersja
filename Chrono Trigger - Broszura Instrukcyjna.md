@@ -1133,9 +1133,17 @@ Bardzo ważne jest, aby często zapisywać grę. W tym momencie zapisz grę.
 
 `Strona 69`
 ## Spotkaj Luccę
-When you find Lucca, she and her father are thrying to demonstrate their teleportation device. No one will try it. If you want to try
+When you find Lucca, she and her father are thrying to demonstrate their teleportation device. No one will try it. If you want to try, stand on the left platform. Remember to save first.
+
+Lucca let you in on what's going on.
+
+You give it a try for Lucca.
+
+Marle also want's to give it a try.
+
+A Time Gate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDQyNzQ1NywxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzUwNzk2MDksMTQ0NDg1MzU5MCwtMT
+U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
+MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
 -->
