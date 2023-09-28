@@ -1286,10 +1286,10 @@ UCIECZKA PRZED REPTYTAMI?
 ZDEZORIENTOWANY PRZEZ KRAWLIEGO?
 CZY BRAKUJE MASAMUNE?
 
-Oficjalna Solucja do gry Chrono Trigger od Nintendo przybywa z pomocą.
-Zadzwoń już dziś aby zamówić swoją Solucję do gry Chrono Trigger za jedyne 39,95 PLN (399500 PLZ).
+Oficjalny Poradnik do gry Chrono Trigger od Nintendo przybywa z pomocą.
+Zadzwoń pod numer [] już dziś aby zamówić swój Poradnik do gry Chrono Trigger za jedyne 39,95 PLN (399500 PLZ).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzUxOTYzNiwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTkwNDQ4MzQwMywtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
