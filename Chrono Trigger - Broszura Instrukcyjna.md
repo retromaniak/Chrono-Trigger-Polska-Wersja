@@ -1205,9 +1205,15 @@ Out of nowhere comes a blue flash of light, and Marle disappears once again. Now
 
 The light flashes and Marle disappears.
 
-Just when you throught
+Just when you throught you had no friends, Lucca appears.
+
+Walk around and talk to everyone to figure out your next move.
+
+## W poszukiwaniu katedry
+Something weird is going on in the cathedral. Talk to the sisters.
+The sisters ne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzE1NjgwOCwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTExMjE4MzQyNSwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
