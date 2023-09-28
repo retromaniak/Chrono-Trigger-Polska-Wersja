@@ -1059,9 +1059,15 @@ There are people at the Mayor's house with important things to tell you.
 This strange box will not open for you... yet. Come back later.
 
 ## Idź do lasu Guardia
-The forest is full of monsters. If you leave them alone they will not bother you. However, to bu
+The forest is full of monsters. If you leave them alone they will not bother you. However, to build your levels you should battle them.
+
+Run into these monsters and they're feady to fight.
+
+Continue battling to build up your levels.
+
+Go to the far right to find a power capsule.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAzNzQ1NTksMTQ0NDg1MzU5MCwtMT
-U4NjQ1NjAzMCwtOTk3MjE0MzAxLDEzNDM3MDE5MjAsLTIwODI4
-MjQwMzcsLTE3NzMyOTkxNCwxOTgzMDU2OTMyXX0=
+eyJoaXN0b3J5IjpbLTI5MTYxNzc0MCwxNDQ0ODUzNTkwLC0xNT
+g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
+NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
 -->
