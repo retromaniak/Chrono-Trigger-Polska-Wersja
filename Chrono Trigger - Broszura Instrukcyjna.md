@@ -1183,9 +1183,10 @@ Idź na most i zobacz, co się dzieje.
 Wyposażaj przedmioty, gdy je kupujesz, w ten sposób będziesz dobrze chroniony i będziesz mógł w pełni wykorzystać swój potencjał.
 
 `Strona 72`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjEwOTM4MCwtMjEzNDI2ODU5LDE0ND
-Q4NTM1OTAsLTE1ODY0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAx
-OTIwLC0yMDgyODI0MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl
-19
+eyJoaXN0b3J5IjpbMjIwMzIzMTc4LC04NDIxMDkzODAsLTIxMz
+QyNjg1OSwxNDQ0ODUzNTkwLC0xNTg2NDU2MDMwLC05OTcyMTQz
+MDEsMTM0MzcwMTkyMCwtMjA4MjgyNDAzNywtMTc3MzI5OTE0LD
+E5ODMwNTY5MzJdfQ==
 -->
