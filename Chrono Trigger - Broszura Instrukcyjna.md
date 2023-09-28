@@ -1088,7 +1088,6 @@ Walcz z grupą, aby podnieść swoje poziomy.
 `Strona 67`
 ### Mini Gra 2
 ## Wyścig
-
 Jest to gra losowa. Postaw na zawodnika, który Twoim zdaniem wygra i zgarnij srebrne punkty.
 
 Idź do namiotu wyścigowego, aby postawić zakład.
@@ -1105,21 +1104,24 @@ Gdy wrócisz do końca, ponownie naciśnij A.
 
 ### Mini Gra 4
 ## Konkurs Guzzlinga
-How many cans of soda can you drink in the allotted time?
+Ile puszek napoju gazowanego możesz wypić w wyznaczonym czasie?
 
-Push A as fast as you can.
+Naciśnij A tak szybko, jak potrafisz.
 
-Drink all 8 cans to win.
+Wypij wszystkie 8 puszek, aby wygrać.
 
 ### Mini Gra 5
 ## Magiczny Namiot
-Save your game before you go in. There are three attractions; the second will reward you with a useful item.
+Przed wejściem zapisz grę. Istnieją trzy atrakcje; druga nagrodzi cię przydatnym przedmiotem.
 
-Enter the tent at your own risk.
+Wejdź do namiotu na własne ryzyko.
 
-Tell Mr. Bekkler which game you want to play.
+Powiedz panu Bekklerowi, w którą grę chcesz zagrać.
+
+`Strona 68`
+## Crono poznaje 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDUwODEwMywxNDQ0ODUzNTkwLC0xNT
-g2NDU2MDMwLC05OTcyMTQzMDEsMTM0MzcwMTkyMCwtMjA4Mjgy
-NDAzNywtMTc3MzI5OTE0LDE5ODMwNTY5MzJdfQ==
+eyJoaXN0b3J5IjpbNzcwNjc2ODM1LDE0NDQ4NTM1OTAsLTE1OD
+Y0NTYwMzAsLTk5NzIxNDMwMSwxMzQzNzAxOTIwLC0yMDgyODI0
+MDM3LC0xNzczMjk5MTQsMTk4MzA1NjkzMl19
 -->
