@@ -1263,20 +1263,23 @@ Jeśli masz problem z pokonaniem Kanclerza, twoje poziomy są zbyt niskie. Udaj 
 
 `Strona 77`
 ## Ponownie Zamek
-Go back to the castle and talk to everyone. When you're learned evrything, you're ready to go back to 1000 A.D.
+Wróć do zamku i porozmawiaj ze wszystkimi. Kiedy dowiesz się wszystkiego, będziesz gotowy do powrotu do roku 1000 n.e..
 
-When you return, everyone is very grateful that you have saved the Queen.
+Po powrocie wszyscy są bardzo wdzięczni za uratowanie królowej.
 
-Marle thinks maybe the group should go back to the future.
+Marle myśli, że może grupa powinna wrócić do przyszłości.
 
-These three people think Marle looks very much like the Queen.
+Te trzy osoby uważają, że Marle bardzo przypomina Królową.
 
 ## Powrót do przyszłości
-Now it's time to head back to 1000 A.D. Go back up the moutain and find the Time Tunnel. From there you will return home. This has been a very small part of your journey. Good luck with the rest.
+Teraz nadszedł czas, aby wrócić do roku 1000 A.D. Wróć w góry i znajdź tunel czasu. Stamtąd wrócisz do domu. To była bardzo mała część twojej podróży. Powodzenia z resztą.
 
-Watch out 
+Uważaj na potwory - wciąż są w pobliżu.
+
+`Strona 78`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTkxNjYxNCwtODQyMTA5MzgwLC0yMT
+eyJoaXN0b3J5IjpbMTQyOTMxOTc5NCwtODQyMTA5MzgwLC0yMT
 M0MjY4NTksMTQ0NDg1MzU5MCwtMTU4NjQ1NjAzMCwtOTk3MjE0
 MzAxLDEzNDM3MDE5MjAsLTIwODI4MjQwMzcsLTE3NzMyOTkxNC
 wxOTgzMDU2OTMyXX0=
